@@ -163,7 +163,7 @@
 **Afternoon (Choose One):**
 
 **Option A: Point Lobos State Natural Reserve** (if kids are good)
-- 📍 [Google Maps](https://www.google.com/maps/place/Point+Lobos+State+Natural+Reserve)
+- 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Point+Lobos+State+Natural+Reserve+CA)
 - 🔗 [Official Website](https://www.parks.ca.gov/?page_id=571)
 - 10 min south of Carmel
 - $10 day use fee
@@ -176,9 +176,9 @@
 - 🎨 Walk through village
 - Window shopping
 - **Devendorf Park** - Playground! (Ocean Ave & Junipero)
-  - 📍 [Google Maps](https://www.google.com/maps/place/Devendorf+Park)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Devendorf+Park+Carmel+CA)
 - Ice cream at **Carmel Honey Company**
-  - 📍 [Google Maps](https://www.google.com/maps/place/Carmel+Honey+Company)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Carmel+Honey+Company+Carmel+CA)
   - 🔗 [Official Website](https://www.carmelhoney.com)
 - Rest/nap time at hotel
 
@@ -213,19 +213,19 @@
 
 **Budget-Friendly Options:**
 - **Monterey Bay Lodge**
-  - 📍 [Google Maps](https://www.google.com/maps/place/Monterey+Bay+Lodge)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Lodge+Monterey+CA)
   - 🔗 [Official Website](https://www.montereybaylodge.com)
   - $150-200/night, near aquarium
 - **Ramada by Wyndham Monterey**
-  - 📍 [Google Maps](https://www.google.com/maps/place/Ramada+by+Wyndham+Monterey)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Ramada+by+Wyndham+Monterey+CA)
   - 🔗 [Book Direct](https://www.wyndhamhotels.com)
   - $130-180/night, pool
 - **Comfort Inn Monterey**
-  - 📍 [Google Maps](https://www.google.com/maps/place/Comfort+Inn+Monterey)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Comfort+Inn+Monterey+CA)
   - 🔗 [Book Direct](https://www.choicehotels.com)
   - $140-190/night, continental breakfast
 - **Casa Munras Garden Hotel**
-  - 📍 [Google Maps](https://www.google.com/maps/place/Casa+Munras+Garden+Hotel+%26+Spa)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Munras+Garden+Hotel+Monterey+CA+Garden+Hotel+%26+Spa)
   - 🔗 [Official Website](https://www.hotelcasamunras.com)
   - $160-220/night, historic, family suites
 
@@ -237,12 +237,12 @@
 
 | Restaurant | Cuisine | Why It's Great | Price | Links |
 |------------|---------|----------------|-------|-------|
-| **Bubba Gump Shrimp** | Seafood | Kids menu, casual, fun theme | $$ | 📍 [Maps](https://www.google.com/maps/place/Bubba+Gump+Shrimp+Co.+Monterey) 🔗 [Website](https://www.bubbagump.com) |
-| **Loulou's Griddle** | Breakfast | Amazing pancakes, high chairs | $ | 📍 [Maps](https://www.google.com/maps/place/Loulou's+Griddle+in+the+Middle) 🔗 [Website](https://loulousgriddle.com) |
-| **Fisherman's Wharf** | Various | Multiple options, outdoor seating | $-$$ | 📍 [Maps](https://www.google.com/maps/place/Fisherman's+Wharf+Monterey) 🔗 [Info](https://www.montereywharf.com) |
-| **Carmel Bakery** | Cafe | Quick, kid-friendly, pastries | $ | 📍 [Maps](https://www.google.com/maps/place/Carmel+Bakery) 🔗 [Website](https://www.carmelbakery.com) |
-| **La Tortuga** | Mexican | Family-run, authentic, casual | $$ | 📍 [Maps](https://www.google.com/maps/place/La+Tortuga+Taqueria) |
-| **First Awakenings** | Breakfast/Lunch | Local favorite, big portions | $ | 📍 [Maps](https://www.google.com/maps/place/First+Awakenings) 🔗 [Website](https://www.firstawakenings.net) |
+| **Bubba Gump Shrimp** | Seafood | Kids menu, casual, fun theme | $$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Bubba+Gump+Shrimp+Co+Monterey+CA) 🔗 [Website](https://www.bubbagump.com) |
+| **Loulou's Griddle** | Breakfast | Amazing pancakes, high chairs | $ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Loulous+Griddle+in+the+Middle+Monterey+CA) 🔗 [Website](https://loulousgriddle.com) |
+| **Fisherman's Wharf** | Various | Multiple options, outdoor seating | $-$$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Fishermans+Wharf+Monterey+CA) 🔗 [Info](https://www.montereywharf.com) |
+| **Carmel Bakery** | Cafe | Quick, kid-friendly, pastries | $ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Carmel+Bakery+Carmel+CA) 🔗 [Website](https://www.carmelbakery.com) |
+| **La Tortuga** | Mexican | Family-run, authentic, casual | $$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=La+Tortuga+Taqueria+Monterey+CA) |
+| **First Awakenings** | Breakfast/Lunch | Local favorite, big portions | $ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=First+Awakenings+Monterey+CA) 🔗 [Website](https://www.firstawakenings.net) |
 
 💡 **Tip:** Many restaurants on Cannery Row offer kids-eat-free specials on certain days!
 
@@ -252,14 +252,14 @@
 
 ### Playgrounds:
 - 🏞️ **Dennis the Menace Park** (Pearl St, Monterey)
-  - 📍 [Google Maps](https://www.google.com/maps/place/Dennis+the+Menace+Park)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Dennis+the+Menace+Park+Monterey+CA)
   - 🔗 [Park Info](https://www.monterey.org/Services/Community-Services/Parks-Beaches/Dennis-the-Menace-Park)
   - Excellent! Vintage playground
 - 🏞️ **Devendorf Park** (Carmel)
-  - 📍 [Google Maps](https://www.google.com/maps/place/Devendorf+Park)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Devendorf+Park+Carmel+CA)
   - Small but nice, downtown
 - 🏞️ **Window on the Bay Park** (Cannery Row)
-  - 📍 [Google Maps](https://www.google.com/maps/place/Window+on+the+Bay+Park)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Window+on+the+Bay+Park+Monterey+CA)
   - Ocean views, small play area
 
 ### Baby/Toddler Needs:

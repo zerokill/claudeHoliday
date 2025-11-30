@@ -99,20 +99,32 @@ When creating detailed location pages, include:
 ## CRITICAL: Links Required for Every Attraction
 **For EVERY attraction, activity, or location suggested, you MUST include:**
 1. **Info Website Link**: Official website or comprehensive info page
-2. **Google Maps Link**: Direct link to Google Maps location
+2. **Google Maps Link**: Direct link to Google Maps location using the API format
 
 **Format Example:**
 ```markdown
 **Griffith Observatory** ⭐
-- 📍 [Google Maps](https://www.google.com/maps/place/Griffith+Observatory)
+- 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Griffith+Observatory+Los+Angeles+CA)
 - 🔗 [Official Website](https://griffithobservatory.org)
 - FREE admission to observatory and grounds
 ```
 
-**Google Maps Link Format:**
-- Use: `https://www.google.com/maps/place/[Location+Name]`
-- For parks/trails: `https://www.google.com/maps/search/[Name]+[City]`
-- Alternative: Use direct place IDs when available
+**Google Maps Link Format (MANDATORY):**
+- **ALWAYS use:** `https://www.google.com/maps/search/?api=1&query=[Location+Name+City+State]`
+- Include location name, city, and state/country for accuracy
+- Replace spaces with `+` signs
+- Remove special characters (ampersands, commas, etc.)
+
+**Examples:**
+- Specific attraction: `https://www.google.com/maps/search/?api=1&query=Golden+Gate+Bridge+San+Francisco+CA`
+- Restaurant: `https://www.google.com/maps/search/?api=1&query=Boudin+Bakery+San+Francisco`
+- National Park: `https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Utah`
+- Trail: `https://www.google.com/maps/search/?api=1&query=Riverside+Walk+Trailhead+Zion+National+Park`
+
+**DO NOT use these formats (they are unreliable):**
+- ❌ `https://www.google.com/maps/place/...`
+- ❌ `https://www.google.com/maps/search/...` (without api=1)
+- ❌ `https://www.google.com/maps/dir/...`
 
 **Info Website Priority:**
 1. Official attraction website (preferred)

@@ -44,13 +44,13 @@
 
 **Evening: First Strip Experience**
 - 🌆 **Las Vegas Strip** - Walk the famous boulevard!
-  - 📍 [Google Maps: Las Vegas Strip](https://www.google.com/maps/search/Las+Vegas+Strip)
+  - 📍 [Google Maps: Las Vegas Strip](https://www.google.com/maps/search/?api=1&query=Las+Vegas+Strip+NV)
   - 🔗 [Visit Las Vegas: The Strip](https://www.visitlasvegas.com/listing/the-las-vegas-strip/9290/)
 
   **Key Stops (All FREE!):**
 
   1. **Bellagio Fountains** ⭐⭐⭐
-     - 📍 [Google Maps](https://www.google.com/maps/place/Fountains+of+Bellagio)
+     - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Fountains+of+Bellagio+Las+Vegas+NV)
      - 🔗 [Official Info](https://www.bellagio.com/en/entertainment/fountains-of-bellagio.html)
      - Shows every 15-30 min (3 PM - midnight)
      - Best times: 7:00 PM, 8:00 PM (still light but fountains lit)
@@ -58,7 +58,7 @@
      - Kids absolutely love this!
 
   2. **Bellagio Conservatory & Botanical Garden**
-     - 📍 [Google Maps](https://www.google.com/maps/place/Bellagio+Conservatory+%26+Botanical+Garden)
+     - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Bellagio+Conservatory+Botanical+Garden+Las+Vegas+NV+%26+Botanical+Garden)
      - 🔗 [Official Info](https://www.bellagio.com/en/entertainment/conservatory-botanical-garden.html)
      - FREE admission
      - Massive seasonal flower displays
@@ -67,7 +67,7 @@
      - 20-30 minute visit
 
   3. **Mirage Volcano** (if kids still awake)
-     - 📍 [Google Maps](https://www.google.com/maps/place/The+Mirage+Volcano)
+     - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Mirage+Volcano+Las+Vegas+NV)
      - 🔗 [Official Info](https://www.themirage.com/en/amenities/volcano.html)
      - Shows: 7 PM, 8 PM, 9 PM (check current schedule)
      - "Erupting" volcano with fire effects
@@ -85,7 +85,7 @@
 ### Day 2 (April 26) - Red Rock Canyon & More Strip
 
 **Morning: Red Rock Canyon National Conservation Area** ⭐⭐⭐
-- 📍 [Google Maps: Red Rock Canyon](https://www.google.com/maps/place/Red+Rock+Canyon+National+Conservation+Area)
+- 📍 [Google Maps: Red Rock Canyon](https://www.google.com/maps/search/?api=1&query=Red+Rock+Canyon+National+Conservation+Area+NV+Conservation+Area)
 - 🔗 [Official NPS Website](https://www.blm.gov/programs/national-conservation-lands/nevada/red-rock-canyon)
 - 🚗 30-40 min drive west of Strip (~25 km)
 - 🎫 **Entry:** $15/car (valid 7 days)
@@ -145,7 +145,7 @@
 **Evening: More Strip Exploration**
 
 1. **Caesars Palace Forum Shops**
-   - 📍 [Google Maps](https://www.google.com/maps/place/The+Forum+Shops+at+Caesars+Palace)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Forum+Shops+at+Caesars+Palace+Las+Vegas+NV+at+Caesars+Palace)
    - 🔗 [Official Website](https://www.simon.com/mall/the-forum-shops-at-caesars)
    - Indoor shopping mall with painted sky ceiling
    - **Fall of Atlantis** animatronic show (FREE, every hour)
@@ -153,7 +153,7 @@
    - 30-45 min visit
 
 2. **The Venetian - Grand Canal Shoppes**
-   - 📍 [Google Maps](https://www.google.com/maps/place/Grand+Canal+Shoppes)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand+Canal+Shoppes+Las+Vegas+NV)
    - 🔗 [Official Website](https://www.grandcanalshoppes.com)
    - Indoor "Venice" with canals and gondolas
    - Painted sky ceiling
@@ -162,7 +162,7 @@
    - 30-45 min walk
 
 3. **Luxor Sky Beam** (evening/night)
-   - 📍 [Google Maps](https://www.google.com/maps/place/Luxor+Hotel+%26+Casino)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Luxor+Hotel+Casino+Las+Vegas+NV+%26+Casino)
    - 🔗 [Luxor Website](https://www.luxor.com)
    - Brightest beam of light in the world
    - Shoots from pyramid top
@@ -170,7 +170,7 @@
    - Drive or walk by for quick look
 
 4. **Fremont Street Experience** (optional, if energy permits)
-   - 📍 [Google Maps](https://www.google.com/maps/place/Fremont+Street+Experience)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Fremont+Street+Experience+Las+Vegas+NV+Experience)
    - 🔗 [Official Website](https://vegasexperience.com)
    - Old Vegas, 15 min drive from Strip
    - Massive LED canopy shows (FREE)
@@ -190,7 +190,7 @@
 **Morning (Choose One Option):**
 
 **Option A: Shark Reef Aquarium** ⭐ (Best for kids!)
-- 📍 [Google Maps](https://www.google.com/maps/place/Shark+Reef+Aquarium)
+- 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Shark+Reef+Aquarium+Mandalay+Bay+Las+Vegas+NV)
 - 🔗 [Official Website](https://www.sharkreef.com)
 - Located at Mandalay Bay
 - 🎫 **Cost:** $29/adult, $23/child (4-12), under 4 FREE
@@ -205,7 +205,7 @@
 - Stroller-friendly, air-conditioned
 
 **Option B: Springs Preserve**
-- 📍 [Google Maps](https://www.google.com/maps/place/Springs+Preserve)
+- 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Springs+Preserve+Las+Vegas+NV)
 - 🔗 [Official Website](https://www.springspreserve.org)
 - 🎫 **Cost:** $19/adult, $11/child (5-17), under 5 FREE
 - Desert botanical gardens
@@ -225,7 +225,7 @@
 **Afternoon:**
 
 **Welcome to Fabulous Las Vegas Sign** ⭐
-- 📍 [Google Maps](https://www.google.com/maps/place/Welcome+to+Fabulous+Las+Vegas+Sign)
+- 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Welcome+to+Fabulous+Las+Vegas+Sign+NV)
 - 🔗 [Visit Las Vegas Info](https://www.visitlasvegas.com/listing/welcome-to-fabulous-las-vegas-sign/8058/)
 - Iconic photo op!
 - 10 min south of Strip
@@ -279,24 +279,24 @@
 
 **Off-Strip (Better value, easier parking, quieter):**
 - **Hampton Inn Tropicana** - $90-140/night, free breakfast, pool, 5 min to Strip
-  - 📍 [Google Maps](https://www.google.com/maps/search/Hampton+Inn+Las+Vegas+Tropicana)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Hampton+Inn+Las+Vegas+Tropicana)
   - 🔗 [Book Direct](https://www.hilton.com/en/hotels/lastrhx-hampton-las-vegas-tropicana/)
 - **Residence Inn Convention Center** - $110-170/night, suites with kitchens, pool
-  - 📍 [Google Maps](https://www.google.com/maps/search/Residence+Inn+Las+Vegas+Convention+Center)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Residence+Inn+Las+Vegas+Convention+Center)
   - 🔗 [Book Direct](https://www.marriott.com/hotels/travel/lasri-residence-inn-las-vegas-convention-center/)
 - **Homewood Suites Henderson** - $100-150/night, full kitchen, free breakfast
-  - 📍 [Google Maps](https://www.google.com/maps/search/Homewood+Suites+Henderson)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Homewood+Suites+Henderson)
   - 🔗 [Book Direct](https://www.hilton.com/en/hotels/lashwhw-homewood-suites-las-vegas-henderson/)
 
 **On-Strip (More expensive but walkable to everything):**
 - **Excalibur** - $60-120/night, budget-friendly, pool, central location
-  - 📍 [Google Maps](https://www.google.com/maps/place/Excalibur+Hotel+%26+Casino)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Excalibur+Hotel+%26+Casino)
   - 🔗 [Official Website](https://www.excalibur.com)
 - **Luxor** - $70-130/night, unique pyramid, pool, connected to Excalibur
-  - 📍 [Google Maps](https://www.google.com/maps/place/Luxor+Hotel+%26+Casino)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Luxor+Hotel+Casino+Las+Vegas+NV+%26+Casino)
   - 🔗 [Official Website](https://www.luxor.com)
 - **New York New York** - $90-160/night, family-friendly theme, good location
-  - 📍 [Google Maps](https://www.google.com/maps/place/New+York-New+York+Hotel+%26+Casino)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=New+York-New+York+Hotel+%26+Casino)
   - 🔗 [Official Website](https://www.newyorknewyork.com)
 
 💡 **Location Tip:** Off-Strip hotels save money on resort fees ($30-45/night on Strip!) and offer free parking. You'll need to drive/Uber to Strip anyway. OR stay at south Strip (Excalibur/Luxor) for budget on-Strip option.
@@ -326,26 +326,26 @@
 ### Google Maps & Info Links:
 
 - **Hash House A Go Go**
-  - 📍 [Google Maps](https://www.google.com/maps/search/Hash+House+A+Go+Go+Las+Vegas)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Hash+House+A+Go+Go+Las+Vegas)
   - 🔗 [Official Website](https://hashhouseagogo.com)
 
 - **Bacchanal Buffet**
-  - 📍 [Google Maps](https://www.google.com/maps/place/Bacchanal+Buffet)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Bacchanal+Buffet)
   - 🔗 [Official Website](https://www.caesars.com/caesars-palace/restaurants/bacchanal-buffet)
   - 💰 Lunch: $65/adult, Dinner: $80/adult, Kids 4-10: $30
 
 - **Earl of Sandwich**
-  - 📍 [Google Maps](https://www.google.com/maps/search/Earl+of+Sandwich+Las+Vegas)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Earl+of+Sandwich+Las+Vegas)
   - 🔗 [Official Website](https://www.earlofsandwichusa.com)
 
 ### Mid-Range with Kids in Mind:
 
 - **Giada** (Cromwell) - Italian, kids menu, elegant but welcoming - $$-$$$
-  - 📍 [Google Maps](https://www.google.com/maps/place/Giada+Las+Vegas)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Giada+Las+Vegas)
   - 🔗 [Official Website](https://www.giadalasvegas.com)
 
 - **Mon Ami Gabi** (Paris) - French bistro, Strip views, kids menu - $$-$$$
-  - 📍 [Google Maps](https://www.google.com/maps/place/Mon+Ami+Gabi)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Mon+Ami+Gabi)
   - 🔗 [Official Website](https://www.monamigabi.com/las-vegas/)
 
 💡 **Budget Tip:** Buffets can be good value if adults are hungry! Kids under 4 usually eat FREE. Late breakfast/early lunch buffets cheaper than dinner.
@@ -356,23 +356,23 @@
 
 ### Best Play Areas:
 - 🏞️ **Town Square Park** (off-Strip) - Playground, splash pad, FREE
-  - 📍 [Google Maps](https://www.google.com/maps/place/Town+Square+Las+Vegas)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Town+Square+Las+Vegas)
   - 🔗 [Official Website](https://www.mytownsquarelasvegas.com)
 - 🏞️ **Springs Preserve** - Nature play area, trails
-  - 📍 [Google Maps](https://www.google.com/maps/place/Springs+Preserve)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Springs+Preserve+Las+Vegas+NV)
   - 🔗 [Official Website](https://www.springspreserve.org)
 
 ### Baby/Toddler Needs:
 - **Changing facilities:** All hotel lobbies, major casinos, malls
 - **Nursing rooms:** Not common - find quiet lounge or return to hotel
 - **Pharmacies:** Walgreens, CVS (many 24-hour locations on Strip)
-  - 📍 [Google Maps: Walgreens Las Vegas Strip](https://www.google.com/maps/search/Walgreens+Las+Vegas+Strip)
+  - 📍 [Google Maps: Walgreens Las Vegas Strip](https://www.google.com/maps/search/?api=1&query=Walgreens+Las+Vegas+Strip)
 - **Grocery:**
-  - **Whole Foods (Strip)** - 📍 [Google Maps](https://www.google.com/maps/search/Whole+Foods+Las+Vegas+Strip)
-  - **Smith's (Kroger)** - Multiple locations - 📍 [Google Maps](https://www.google.com/maps/search/Smith's+Las+Vegas)
-  - **Target** - 📍 [Google Maps](https://www.google.com/maps/search/Target+Las+Vegas)
+  - **Whole Foods (Strip)** - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Whole+Foods+Las+Vegas+Strip)
+  - **Smith's (Kroger)** - Multiple locations - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Smith's+Las+Vegas)
+  - **Target** - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Target+Las+Vegas)
 - **Emergency:** Sunrise Hospital & Medical Center (closest to Strip)
-  - 📍 [Google Maps](https://www.google.com/maps/place/Sunrise+Hospital+and+Medical+Center)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sunrise+Hospital+and+Medical+Center)
   - 🔗 [Website](https://sunrisehospital.com)
 
 ---

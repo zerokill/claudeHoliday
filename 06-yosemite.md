@@ -35,21 +35,21 @@
 **Suggested Stops:**
 
 1. **Las Vegas Area** (1.5 hours from Zion) - Breakfast stop
-   - 📍 [Google Maps: Las Vegas](https://www.google.com/maps/place/Las+Vegas,+NV)
+   - 📍 [Google Maps: Las Vegas](https://www.google.com/maps/search/?api=1&query=Las+Vegas,+NV)
    - Gas, food, bathroom break
    - McDonald's PlayPlace for kids to burn energy
 
 2. **Bakersfield, CA** (~Halfway, 3.5-4 hours from Vegas) - Lunch
-   - 📍 [Google Maps: Bakersfield CA](https://www.google.com/maps/place/Bakersfield,+CA)
+   - 📍 [Google Maps: Bakersfield CA](https://www.google.com/maps/search/?api=1&query=Bakersfield,+CA)
    - Multiple restaurant options off CA-99
    - Let kids run around at a park
-   - **Hart Park** has playground - 📍 [Google Maps](https://www.google.com/maps/place/Hart+Park)
+   - **Hart Park** has playground - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Hart+Park)
 
 3. **Fresno/Oakhurst Area** (1 hour from Yosemite) - Final stretch
-   - 📍 [Google Maps: Oakhurst CA](https://www.google.com/maps/place/Oakhurst,+CA)
+   - 📍 [Google Maps: Oakhurst CA](https://www.google.com/maps/search/?api=1&query=Oakhurst,+CA)
    - Gas up before entering park
    - Grocery stop if needed (last chance!)
-   - **Raley's Supermarket** - 📍 [Google Maps](https://www.google.com/maps/search/Raleys+Oakhurst)
+   - **Raley's Supermarket** - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Raleys+Oakhurst)
 
 > 👶 **Long Drive Survival Tips:**
 > - Start EARLY (6-7 AM) - kids can sleep first 1-2 hours in car
@@ -63,7 +63,7 @@
 **Afternoon/Evening:**
 - 🏨 Arrive Yosemite Valley or gateway town (3:00-4:00 PM if all goes well)
 - 🎫 **Enter Yosemite National Park**
-  - 📍 [Google Maps: Yosemite National Park](https://www.google.com/maps/place/Yosemite+National+Park)
+  - 📍 [Google Maps: Yosemite National Park](https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park+CA)
   - 🔗 [Official NPS Website](https://www.nps.gov/yose/)
   - 🎫 **Entry:** $35/car (7 days) OR FREE with America the Beautiful Pass
   - ⏰ **Park Hours:** Open 24/7
@@ -82,14 +82,14 @@
 **Morning: Valley Floor Exploration**
 
 **Yosemite Valley** 🏔️ ⭐⭐⭐
-- 📍 [Google Maps: Yosemite Valley](https://www.google.com/maps/place/Yosemite+Valley)
+- 📍 [Google Maps: Yosemite Valley](https://www.google.com/maps/search/?api=1&query=Yosemite+Valley)
 - 🔗 [Valley Info](https://www.nps.gov/yose/planyourvisit/yv.htm)
 - The heart of Yosemite!
 - 1,200m elevation, surrounded by granite cliffs
 - **Free shuttle system** runs throughout valley
 
 **Yosemite Valley Visitor Center**
-- 📍 [Google Maps: Yosemite Valley Visitor Center](https://www.google.com/maps/place/Yosemite+Valley+Visitor+Center)
+- 📍 [Google Maps: Yosemite Valley Visitor Center](https://www.google.com/maps/search/?api=1&query=Yosemite+Valley+Visitor+Center+CA)
 - 🔗 [Visitor Center Info](https://www.nps.gov/yose/planyourvisit/visitorcenters.htm)
 - Stop here first!
 - Exhibits, bookstore, ranger info
@@ -99,7 +99,7 @@
   - 5-year-old will love earning a badge!
 
 **Lower Yosemite Fall Trail** 🚶 ⭐⭐⭐ MUST DO!
-- 📍 [Google Maps: Lower Yosemite Fall Trailhead](https://www.google.com/maps/place/Lower+Yosemite+Fall+Trailhead)
+- 📍 [Google Maps: Lower Yosemite Fall Trailhead](https://www.google.com/maps/search/?api=1&query=Lower+Yosemite+Fall+Trailhead+Yosemite+CA+Trailhead)
 - 🔗 [Trail Info](https://www.nps.gov/yose/planyourvisit/lowerfall.htm)
 - **Distance:** 1.6 km loop
 - **Difficulty:** EASY - completely paved
@@ -129,14 +129,14 @@
   - Hop on/off at different stops
 
 **Valley View** - Photo Stop
-- 📍 [Google Maps: Valley View](https://www.google.com/maps/place/Valley+View+Yosemite)
+- 📍 [Google Maps: Valley View](https://www.google.com/maps/search/?api=1&query=Valley+View+Yosemite+National+Park+CA+Yosemite)
 - Classic Yosemite postcard view
 - El Capitan, Bridalveil Fall, Cathedral Rocks all visible
 - 5 min from parking
 
 **Lunch:**
 - 🍔 **Yosemite Valley Lodge Food Court** or **Village Grill**
-  - 📍 [Google Maps: Yosemite Valley Lodge](https://www.google.com/maps/place/Yosemite+Valley+Lodge)
+  - 📍 [Google Maps: Yosemite Valley Lodge](https://www.google.com/maps/search/?api=1&query=Yosemite+Valley+Lodge+Yosemite+CA)
   - 🔗 [Dining Info](https://www.travelyosemite.com/dining/)
   - Casual, kid-friendly, reasonable prices
   - $$
@@ -144,7 +144,7 @@
 **Afternoon:**
 
 **Bridalveil Fall** 🚶 ⭐⭐⭐
-- 📍 [Google Maps: Bridalveil Fall](https://www.google.com/maps/place/Bridalveil+Fall)
+- 📍 [Google Maps: Bridalveil Fall](https://www.google.com/maps/search/?api=1&query=Bridalveil+Fall+Yosemite+National+Park+CA)
 - 🔗 [Trail Info](https://www.nps.gov/yose/planyourvisit/bridalveilfall.htm)
 - **Distance:** 800 meters round-trip
 - **Difficulty:** EASY (some uphill, paved initially then gravel)
@@ -158,7 +158,7 @@
 
 **Meadow Time:**
 - 🌸 **Cook's Meadow** or **Sentinel Meadow**
-  - 📍 [Google Maps: Cook's Meadow Loop](https://www.google.com/maps/place/Cook's+Meadow+Loop)
+  - 📍 [Google Maps: Cook's Meadow Loop](https://www.google.com/maps/search/?api=1&query=Cooks+Meadow+Loop+Yosemite+CA+Loop)
   - Flat, easy walking/strolling
   - Wildflowers in May!
   - Views of Half Dome, Yosemite Falls
@@ -177,7 +177,7 @@
 
 **Morning: Mariposa Grove of Giant Sequoias** 🌲 ⭐⭐⭐
 
-- 📍 [Google Maps: Mariposa Grove](https://www.google.com/maps/place/Mariposa+Grove+of+Giant+Sequoias)
+- 📍 [Google Maps: Mariposa Grove](https://www.google.com/maps/search/?api=1&query=Mariposa+Grove+of+Giant+Sequoias+Yosemite+CA+of+Giant+Sequoias)
 - 🔗 [Official Info](https://www.nps.gov/yose/planyourvisit/mg.htm)
 - 🚗 **Drive:** 1 hour from Yosemite Valley (south entrance area)
 - 🎫 **Entry:** Included in park admission
@@ -228,7 +228,7 @@
 **Afternoon: Valley Activities**
 
 **Mirror Lake/Meadow** 🚶
-- 📍 [Google Maps: Mirror Lake Trailhead](https://www.google.com/maps/place/Mirror+Lake+Trailhead)
+- 📍 [Google Maps: Mirror Lake Trailhead](https://www.google.com/maps/search/?api=1&query=Mirror+Lake+Trailhead+Yosemite+CA+Trailhead)
 - 🔗 [Trail Info](https://www.nps.gov/yose/planyourvisit/mirrorlake.htm)
 - **Distance:** 3.2 km round-trip (to "lake")
 - **Difficulty:** EASY - mostly flat, paved
@@ -245,7 +245,7 @@
 
 **Alternative Activity:**
 **Ansel Adams Gallery**
-- 📍 [Google Maps: Ansel Adams Gallery](https://www.google.com/maps/place/Ansel+Adams+Gallery)
+- 📍 [Google Maps: Ansel Adams Gallery](https://www.google.com/maps/search/?api=1&query=Ansel+Adams+Gallery+Yosemite+CA)
 - 🔗 [Official Website](https://www.anseladams.com/ansel-adams-gallery-yosemite/)
 - In Yosemite Village
 - FREE to browse
@@ -254,7 +254,7 @@
 - Good rainy-day option
 
 **Happy Isles** - Short Walks & River
-- 📍 [Google Maps: Happy Isles](https://www.google.com/maps/place/Happy+Isles)
+- 📍 [Google Maps: Happy Isles](https://www.google.com/maps/search/?api=1&query=Happy+Isles+Yosemite+National+Park+CA)
 - Shuttle Stop #16
 - Short paved paths along Merced River
 - Bridges, nature center (if open)
@@ -273,7 +273,7 @@
 **Morning (Weather Dependent):**
 
 **Option A: Glacier Point** 🚗 ⭐⭐⭐ (IF ROAD OPEN!)
-- 📍 [Google Maps: Glacier Point](https://www.google.com/maps/place/Glacier+Point)
+- 📍 [Google Maps: Glacier Point](https://www.google.com/maps/search/?api=1&query=Glacier+Point+Yosemite+National+Park+CA)
 - 🔗 [Glacier Point Info](https://www.nps.gov/yose/planyourvisit/glacierpoint.htm)
 - 🚗 **Drive:** 1 hour from valley (32 km each way)
 - **Elevation:** 2,199m
@@ -297,7 +297,7 @@
 Do Option B or C below!
 
 **Option B: Tunnel View** 🚗 ⭐⭐⭐
-- 📍 [Google Maps: Tunnel View](https://www.google.com/maps/place/Tunnel+View)
+- 📍 [Google Maps: Tunnel View](https://www.google.com/maps/search/?api=1&query=Tunnel+View+Yosemite+National+Park+CA)
 - 🔗 [Info](https://www.nps.gov/yose/planyourvisit/tunnelview.htm)
 - On Wawona Road (Highway 41), just inside park
 - **THE** classic Yosemite postcard view
@@ -308,7 +308,7 @@ Do Option B or C below!
 - MUST-VISIT!
 
 **Olmsted Point** (if doing Tioga Road - likely CLOSED in early May)
-- 📍 [Google Maps: Olmsted Point](https://www.google.com/maps/place/Olmsted+Point)
+- 📍 [Google Maps: Olmsted Point](https://www.google.com/maps/search/?api=1&query=Olmsted+Point+Yosemite+CA)
 - 🔗 [Info](https://www.nps.gov/places/olmsted-point.htm)
 - ⚠️ Tioga Road (Highway 120 East) typically opens late May-early June
 - Likely CLOSED during your visit
@@ -323,17 +323,17 @@ Do Option B or C below!
 **Late Morning/Midday:**
 
 **El Capitan Meadow** - View the Monolith!
-- 📍 [Google Maps: El Capitan Meadow](https://www.google.com/maps/search/El+Capitan+Meadow+Yosemite)
+- 📍 [Google Maps: El Capitan Meadow](https://www.google.com/maps/search/?api=1&query=El+Capitan+Meadow+Yosemite)
 - Pull off Northside Drive
 - **El Capitan** - 900m vertical granite face!
-  - 📍 [Google Maps: El Capitan](https://www.google.com/maps/place/El+Capitan)
+  - 📍 [Google Maps: El Capitan](https://www.google.com/maps/search/?api=1&query=El+Capitan)
   - 🔗 [Info](https://www.nps.gov/yose/planyourvisit/elcapitan.htm)
   - World-famous rock climbing wall
   - Bring binoculars - may see climbers on wall!
   - 5-year-old will be amazed by the sheer size
 
 **Swinging Bridge** 🚶
-- 📍 [Google Maps: Swinging Bridge Yosemite](https://www.google.com/maps/search/Swinging+Bridge+Yosemite)
+- 📍 [Google Maps: Swinging Bridge Yosemite](https://www.google.com/maps/search/?api=1&query=Swinging+Bridge+Yosemite)
 - Easy flat walk from parking
 - Suspension bridge over Merced River
 - Kids love the gentle sway!
@@ -342,7 +342,7 @@ Do Option B or C below!
 
 **Lunch:**
 - 🍕 **Degnan's Kitchen** (Yosemite Village) - Pizza, sandwiches, casual
-  - 📍 [Google Maps: Degnan's Kitchen](https://www.google.com/maps/place/Degnan's+Kitchen)
+  - 📍 [Google Maps: Degnan's Kitchen](https://www.google.com/maps/search/?api=1&query=Degnan's+Kitchen)
   - 🔗 [Info](https://www.travelyosemite.com/dining/degnans-kitchen/)
 
 **Afternoon:**
@@ -402,12 +402,12 @@ Do Option B or C below!
 
 **Yosemite Valley:**
 - **Yosemite Valley Lodge** - $250-350/night, in-park, walking to everything
-  - 📍 [Google Maps](https://www.google.com/maps/place/Yosemite+Valley+Lodge)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Yosemite+Valley+Lodge+Yosemite+CA)
   - 🔗 [Book Here](https://www.travelyosemite.com/lodging/yosemite-valley-lodge/)
   - ⚠️ Books up 12+ months in advance!
 
 - **Curry Village** - $150-200/night, tent cabins or wooden cabins
-  - 📍 [Google Maps](https://www.google.com/maps/place/Curry+Village)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Curry+Village)
   - 🔗 [Book Here](https://www.travelyosemite.com/lodging/curry-village/)
   - More rustic, budget-friendly
 
@@ -415,27 +415,27 @@ Do Option B or C below!
 
 **El Portal** (23 km west of valley, 20 min drive):
 - **Yosemite View Lodge** - $150-250/night, riverside, pools, restaurants
-  - 📍 [Google Maps](https://www.google.com/maps/place/Yosemite+View+Lodge)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Yosemite+View+Lodge)
   - 🔗 [Book Here](https://www.yosemiteresorts.us/hotels/yosemite-view-lodge)
   - Great family option!
 
 **Mariposa** (70 km southwest, 1 hour drive):
 - **Best Western Plus Yosemite Way Station** - $120-180/night, pool, breakfast
-  - 📍 [Google Maps](https://www.google.com/maps/place/Best+Western+Plus+Yosemite+Way+Station)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Best+Western+Plus+Yosemite+Way+Station)
   - 🔗 [Book Direct](https://www.bestwestern.com/en_US/book/hotel-rooms.05617.html)
 
 - **Comfort Inn Yosemite** - $100-150/night, budget-friendly, pool
-  - 📍 [Google Maps](https://www.google.com/maps/place/Comfort+Inn+Yosemite+Valley+Gateway)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Comfort+Inn+Yosemite+Valley+Gateway)
   - 🔗 [Book Direct](https://www.choicehotels.com/california/mariposa/comfort-inn-hotels/)
 
 **Oakhurst** (80 km south, 1.5 hours drive):
 - **Best Western Plus Yosemite Gateway Inn** - $110-160/night, pool
-  - 📍 [Google Maps](https://www.google.com/maps/place/Best+Western+Plus+Yosemite+Gateway+Inn)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Best+Western+Plus+Yosemite+Gateway+Inn)
   - 🔗 [Book Direct](https://www.bestwestern.com/en_US/book/hotel-rooms.05621.html)
 
 **Groveland** (40 km northwest, 45 min drive):
 - **Yosemite Westgate Lodge** - $120-180/night, pool, family suites
-  - 📍 [Google Maps](https://www.google.com/maps/place/Yosemite+Westgate+Lodge)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Yosemite+Westgate+Lodge)
   - 🔗 [Official Website](https://www.yosemitewestgatelodge.com)
 
 💡 **Recommendation:** If you can't book in-park (likely!), stay in **El Portal** (closest) or **Mariposa** (more options). Budget extra time for driving to/from park each day.
@@ -448,39 +448,39 @@ Do Option B or C below!
 
 | Restaurant | Location | Why It's Great | Price | Links |
 |------------|----------|----------------|-------|-------|
-| **Valley Lodge Food Court** | Yosemite Valley Lodge | Casual, fast, kid-friendly | $$ | 📍 [Maps](https://www.google.com/maps/place/Yosemite+Valley+Lodge) 🔗 [Info](https://www.travelyosemite.com/dining/) |
-| **Village Grill** | Yosemite Village | Burgers, fries, outdoor seating | $$ | 📍 [Maps](https://www.google.com/maps/place/Village+Grill+Yosemite) 🔗 [Info](https://www.travelyosemite.com/dining/village-grill/) |
-| **Degnan's Kitchen** | Yosemite Village | Pizza, sandwiches, grab-and-go | $ -$$ | 📍 [Maps](https://www.google.com/maps/place/Degnan's+Kitchen) 🔗 [Info](https://www.travelyosemite.com/dining/degnans-kitchen/) |
+| **Valley Lodge Food Court** | Yosemite Valley Lodge | Casual, fast, kid-friendly | $$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Yosemite+Valley+Lodge+Yosemite+CA) 🔗 [Info](https://www.travelyosemite.com/dining/) |
+| **Village Grill** | Yosemite Village | Burgers, fries, outdoor seating | $$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Village+Grill+Yosemite) 🔗 [Info](https://www.travelyosemite.com/dining/village-grill/) |
+| **Degnan's Kitchen** | Yosemite Village | Pizza, sandwiches, grab-and-go | $ -$$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Degnan's+Kitchen) 🔗 [Info](https://www.travelyosemite.com/dining/degnans-kitchen/) |
 
 ### Gateway Towns:
 
 **El Portal:**
 - **Yosemite View Restaurant** - On-site at Yosemite View Lodge, decent food
-  - 📍 [Google Maps](https://www.google.com/maps/place/Yosemite+View+Lodge)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Yosemite+View+Lodge)
   - $-$$
 
 **Mariposa:**
 - **Happy Burger Diner** - Classic diner, huge portions, kids menu
-  - 📍 [Google Maps](https://www.google.com/maps/place/Happy+Burger+Diner)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Happy+Burger+Diner)
   - 🔗 [Info](https://www.happyburgerdiner.com)
   - $
 
 - **1850 Restaurant & Brewing** - Burgers, pizza, brewery, family-friendly
-  - 📍 [Google Maps](https://www.google.com/maps/place/1850+Restaurant+%26+Brewing+Company)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=1850+Restaurant+%26+Brewing+Company)
   - 🔗 [Website](https://1850restaurant.com)
   - $$
 
 **Oakhurst:**
 - **South Gate Brewing Company** - Pizza, burgers, kids menu, outdoor patio
-  - 📍 [Google Maps](https://www.google.com/maps/place/South+Gate+Brewing+Company)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=South+Gate+Brewing+Company)
   - 🔗 [Website](https://www.southgatebrewco.com)
   - $$
 
 💡 **Budget Tip:** Pack picnic lunches! Yosemite has beautiful picnic areas and you'll save $40-60/day. Stock up at grocery stores in gateway towns.
 
 **Grocery Stores:**
-- **Mariposa:** Pioneer Market - 📍 [Google Maps](https://www.google.com/maps/search/Pioneer+Market+Mariposa)
-- **Oakhurst:** Raley's - 📍 [Google Maps](https://www.google.com/maps/search/Raleys+Oakhurst)
+- **Mariposa:** Pioneer Market - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Pioneer+Market+Mariposa)
+- **Oakhurst:** Raley's - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Raleys+Oakhurst)
 - **In Park:** Village Store (very expensive, limited selection)
 
 ---
@@ -496,11 +496,11 @@ Do Option B or C below!
 - **Pharmacy/Supplies:**
   - No pharmacy IN park
   - Closest: Mariposa (1 hour), Oakhurst (1.5 hours)
-  - 📍 [CVS Mariposa](https://www.google.com/maps/search/CVS+Mariposa+CA)
+  - 📍 [CVS Mariposa](https://www.google.com/maps/search/?api=1&query=CVS+Mariposa+CA)
   - **Bring all medications/supplies with you!**
 - **Emergency:**
   - **Yosemite Medical Clinic** - In Yosemite Village
-  - 📍 [Google Maps](https://www.google.com/maps/place/Yosemite+Medical+Clinic)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Yosemite+Medical+Clinic)
   - 🔗 [Info](https://www.nps.gov/yose/planyourvisit/dvc.htm)
   - Open limited hours, call: (209) 372-4637
 

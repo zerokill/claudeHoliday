@@ -43,13 +43,13 @@
 
 **Afternoon: First Park Visit**
 - 🎫 **Enter Zion National Park**
-  - 📍 [Google Maps: Zion National Park](https://www.google.com/maps/place/Zion+National+Park)
+  - 📍 [Google Maps: Zion National Park](https://www.google.com/maps/search/?api=1&query=Zion+National+Park+Utah)
   - 🔗 [Official NPS Website](https://www.nps.gov/zion/)
   - 🎫 **Entry:** $35/car (7 days) OR FREE with America the Beautiful Pass ($80/year - covers Yosemite too!)
   - ⏰ **Park Hours:** Open 24/7, Visitor Center 8 AM - 5 PM
 
 - 🚌 **Zion Canyon Shuttle** ⭐⭐⭐
-  - 📍 [Google Maps: Zion Canyon Visitor Center](https://www.google.com/maps/place/Zion+Canyon+Visitor+Center)
+  - 📍 [Google Maps: Zion Canyon Visitor Center](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Visitor+Center+Utah)
   - 🔗 [Shuttle Info](https://www.nps.gov/zion/planyourvisit/shuttle-system.htm)
   - **FREE shuttle** (required April-November - private cars not allowed in canyon!)
   - Runs every 6-10 minutes
@@ -60,7 +60,7 @@
 **Easy Afternoon Activity:**
 
 **Pa'rus Trail** 🚶 PERFECT FOR FAMILIES!
-- 📍 [Google Maps: Pa'rus Trail](https://www.google.com/maps/place/Pa%27rus+Trail,+Zion+National+Park)
+- 📍 [Google Maps: Pa'rus Trail](https://www.google.com/maps/search/?api=1&query=Pa+rus+Trail+Zion+National+Park,+Zion+National+Park)
 - 🔗 [Trail Info](https://www.nps.gov/zion/planyourvisit/parus-trail.htm)
 - **Distance:** 3.5 km round-trip (or walk partway and turn back)
 - **Difficulty:** EASY - completely flat, paved
@@ -100,7 +100,7 @@
 - Enjoy narration and views on the way up (~45 min ride)
 
 **The Riverside Walk** 🚶 ⭐⭐⭐ MUST DO!
-- 📍 [Google Maps: Riverside Walk Trailhead](https://www.google.com/maps/place/Riverside+Walk+Trailhead)
+- 📍 [Google Maps: Riverside Walk Trailhead](https://www.google.com/maps/search/?api=1&query=Riverside+Walk+Trailhead+Zion+National+Park)
 - 🔗 [Trail Info](https://www.nps.gov/zion/planyourvisit/theriversi.htm)
 - **Trailhead:** Temple of Sinawava (Shuttle Stop 9)
 - **Distance:** 3.5 km round-trip
@@ -125,7 +125,7 @@
 📸 [Riverside Walk Photos](https://www.nps.gov/zion/planyourvisit/theriversi.htm)
 
 **Late Morning: Lower Emerald Pool Trail** 🚶
-- 📍 [Google Maps: Emerald Pools Trailhead](https://www.google.com/maps/place/Emerald+Pools+Trailhead)
+- 📍 [Google Maps: Emerald Pools Trailhead](https://www.google.com/maps/search/?api=1&query=Emerald+Pools+Trailhead+Zion+National+Park)
 - 🔗 [Trail Info](https://www.nps.gov/zion/planyourvisit/emeraldpoolstrail.htm)
 - **Trailhead:** Zion Lodge (Shuttle Stop 5)
 - **Distance:** 2 km round-trip (Lower Pool only)
@@ -147,7 +147,7 @@
 
 **Lunch:**
 - 🍔 **Zion Lodge Red Rock Grill** (at the Lodge, Shuttle Stop 5)
-  - 📍 [Google Maps: Zion Lodge](https://www.google.com/maps/place/Zion+Lodge)
+  - 📍 [Google Maps: Zion Lodge](https://www.google.com/maps/search/?api=1&query=Zion+Lodge+Zion+National+Park)
   - 🔗 [Zion Lodge Dining](https://www.zionlodge.com/dining/)
   - Only restaurant in the park
   - Burgers, sandwiches, salads
@@ -160,7 +160,7 @@
 - OR: **Weeping Rock** (if kids still have energy)
 
 **Weeping Rock Trail** 🚶 (Short & Sweet!)
-- 📍 [Google Maps: Weeping Rock Trailhead](https://www.google.com/maps/place/Weeping+Rock+Trailhead)
+- 📍 [Google Maps: Weeping Rock Trailhead](https://www.google.com/maps/search/?api=1&query=Weeping+Rock+Trailhead+Zion+National+Park+Trailhead)
 - 🔗 [Trail Info](https://www.nps.gov/zion/planyourvisit/weepingrock.htm)
 - **Trailhead:** Weeping Rock (Shuttle Stop 7)
 - **Distance:** 800 meters round-trip
@@ -178,7 +178,7 @@
 **Late Afternoon:**
 - 🚌 Ride shuttle back down canyon
 - 🛍️ **Zion Human History Museum** (optional, if time)
-  - 📍 [Google Maps: Zion Human History Museum](https://www.google.com/maps/place/Zion+Human+History+Museum)
+  - 📍 [Google Maps: Zion Human History Museum](https://www.google.com/maps/search/?api=1&query=Zion+Human+History+Museum+Zion+National+Park)
   - Small museum, 20-30 min visit
   - Good for rainy day or hot afternoon
 
@@ -197,7 +197,7 @@
 **Morning: East Side of Park**
 
 **Zion-Mt. Carmel Highway** 🚗 ⭐⭐⭐
-- 📍 [Google Maps: Zion-Mt Carmel Highway](https://www.google.com/maps/place/Zion-Mt.+Carmel+Highway)
+- 📍 [Google Maps: Zion-Mt Carmel Highway](https://www.google.com/maps/search/?api=1&query=Zion-Mt+Carmel+Highway+Utah)
 - 🔗 [Highway Info](https://www.nps.gov/zion/planyourvisit/zion-mount-carmel-highway.htm)
 - Drive the scenic eastern route (State Route 9)
 - **Highlights:**
@@ -213,7 +213,7 @@
 📸 [Zion-Mt. Carmel Highway Photos](https://www.nps.gov/zion/planyourvisit/zion-mount-carmel-highway.htm)
 
 **Canyon Overlook Trail** 🚶 (Optional - depends on energy!)
-- 📍 [Google Maps: Canyon Overlook Trail](https://www.google.com/maps/place/Canyon+Overlook+Trail)
+- 📍 [Google Maps: Canyon Overlook Trail](https://www.google.com/maps/search/?api=1&query=Canyon+Overlook+Trail+Zion+National+Park)
 - 🔗 [Trail Info](https://www.nps.gov/zion/planyourvisit/canyonoverlooktrail.htm)
 - **Trailhead:** Just east of long tunnel (parking lot)
 - **Distance:** 1.6 km round-trip
@@ -232,7 +232,7 @@
 - More relaxed pace
 
 **Option B: Kolob Canyons** (Advanced Option)
-- 📍 [Google Maps: Kolob Canyons](https://www.google.com/maps/place/Kolob+Canyons)
+- 📍 [Google Maps: Kolob Canyons](https://www.google.com/maps/search/?api=1&query=Kolob+Canyons+Zion+National+Park)
 - 🔗 [Kolob Info](https://www.nps.gov/zion/planyourvisit/kolob-canyons.htm)
 - Northwest section of Zion (separate entrance)
 - 1 hour drive from Springdale
@@ -292,33 +292,33 @@
 
 **Value Hotels:**
 - **Best Western Plus Zion Canyon Inn** - $120-180/night, pool, free breakfast
-  - 📍 [Google Maps](https://www.google.com/maps/place/Best+Western+Plus+Zion+Canyon+Inn+%26+Suites)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Best+Western+Plus+Zion+Canyon+Inn+%26+Suites)
   - 🔗 [Book Direct](https://www.bestwestern.com/en_US/book/hotel-rooms.45089.html)
   - 1.5 km from park entrance
 
 - **La Quinta Inn & Suites** - $130-200/night, pool, free breakfast, family suites
-  - 📍 [Google Maps](https://www.google.com/maps/place/La+Quinta+by+Wyndham+at+Zion+Park)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Quinta+by+Wyndham+at+Zion+Park)
   - 🔗 [Book Direct](https://www.wyndhamhotels.com/laquinta/springdale-utah/la-quinta-zion-park-springdale/overview)
   - Walking distance to park entrance
 
 - **Hampton Inn & Suites Springdale** - $140-220/night, pool, free breakfast
-  - 📍 [Google Maps](https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Springdale)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Hampton+Inn+%26+Suites+Springdale)
   - 🔗 [Book Direct](https://www.hilton.com/en/hotels/sguzshx-hampton-suites-springdale-zion-national-park/)
   - Very family-friendly
 
 **Budget Options:**
 - **Quality Inn at Zion Park** - $100-150/night, basic but clean, pool
-  - 📍 [Google Maps](https://www.google.com/maps/place/Quality+Inn+at+Zion+Park)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Quality+Inn+at+Zion+Park)
   - 🔗 [Book Direct](https://www.choicehotels.com/utah/springdale/quality-inn-hotels/)
 
 - **Driftwood Lodge** - $110-160/night, outdoor setting, pool
-  - 📍 [Google Maps](https://www.google.com/maps/place/Driftwood+Lodge)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood+Lodge)
   - 🔗 [Official Website](https://www.driftwoodlodge.net)
 
 **Nearby Alternative (If Springdale full):**
 - **Hurricane, UT** - 40 min from park entrance, more budget options
   - Hampton Inn Hurricane - $90-130/night
-  - 📍 [Google Maps: Hurricane UT](https://www.google.com/maps/place/Hurricane,+UT)
+  - 📍 [Google Maps: Hurricane UT](https://www.google.com/maps/search/?api=1&query=Hurricane,+UT)
 
 💡 **Location Tip:** Springdale is THE place to stay. Everything walkable (restaurants, shops), 5-min drive to park entrance, free shuttle to park from many hotels. Book early - limited rooms!
 
@@ -337,31 +337,31 @@
 
 | Restaurant | Cuisine | Why It's Great | Price | Links |
 |------------|---------|----------------|-------|-------|
-| **Oscar's Cafe** | American/Mexican | Huge portions, kids menu, casual | $$ | 📍 [Maps](https://www.google.com/maps/place/Oscar's+Cafe) 🔗 [Info](https://oscarscafe.com) |
-| **Zion Pizza & Noodle** | Pizza/Pasta | Casual, converted church, microbrewery | $$ | 📍 [Maps](https://www.google.com/maps/place/Zion+Pizza+%26+Noodle+Co) 🔗 [Info](https://zionpizzanoodle.com) |
-| **Cafe Soleil** | Breakfast/Cafe | Great breakfast, outdoor seating | $-$$ | 📍 [Maps](https://www.google.com/maps/place/Cafe+Soleil) 🔗 [Info](https://www.cafesoleilzion.com) |
-| **MeMe's Cafe** | Breakfast/Lunch | Breakfast burritos, sandwiches, fast | $ | 📍 [Maps](https://www.google.com/maps/place/MeMe's+Cafe) 🔗 [Facebook](https://www.facebook.com/memescafespringdale/) |
-| **Thai Sapa** | Thai | Authentic, family-friendly, good value | $$ | 📍 [Maps](https://www.google.com/maps/place/Thai+Sapa) 🔗 [Info](https://www.thaisapazion.com) |
+| **Oscar's Cafe** | American/Mexican | Huge portions, kids menu, casual | $$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Oscar's+Cafe) 🔗 [Info](https://oscarscafe.com) |
+| **Zion Pizza & Noodle** | Pizza/Pasta | Casual, converted church, microbrewery | $$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Zion+Pizza+%26+Noodle+Co) 🔗 [Info](https://zionpizzanoodle.com) |
+| **Cafe Soleil** | Breakfast/Cafe | Great breakfast, outdoor seating | $-$$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Soleil) 🔗 [Info](https://www.cafesoleilzion.com) |
+| **MeMe's Cafe** | Breakfast/Lunch | Breakfast burritos, sandwiches, fast | $ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=MeMe's+Cafe) 🔗 [Facebook](https://www.facebook.com/memescafespringdale/) |
+| **Thai Sapa** | Thai | Authentic, family-friendly, good value | $$ | 📍 [Maps](https://www.google.com/maps/search/?api=1&query=Thai+Sapa) 🔗 [Info](https://www.thaisapazion.com) |
 
 ### Mid-Range:
 
 - **Whiptail Grill** - Mexican, outdoor patio, margaritas (for adults!), kids menu - $$
-  - 📍 [Google Maps](https://www.google.com/maps/place/Whiptail+Grill)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Whiptail+Grill)
   - 🔗 [Official Website](https://whiptailgrillzion.com)
 
 - **Spotted Dog Cafe** - Upscale casual, local ingredients, kids welcome - $$-$$$
-  - 📍 [Google Maps](https://www.google.com/maps/place/Spotted+Dog+Cafe)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Spotted+Dog+Cafe)
   - 🔗 [Official Website](https://www.flanigans.com/spotted-dog)
 
 - **King's Landing Bistro** - Burgers, steaks, riverside patio - $$-$$$
-  - 📍 [Google Maps](https://www.google.com/maps/place/King's+Landing+Bistro)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=King's+Landing+Bistro)
   - 🔗 [Official Website](https://www.kingslanding.com)
 
 💡 **Budget Tip:** Oscar's and MeMe's offer huge portions for cheap. Zion Pizza has good deals on kids' meals. Many places have outdoor seating - great for wiggly toddlers!
 
 **Grocery/Snacks:**
 - **Sol Foods Supermarket** - Small grocery in Springdale
-  - 📍 [Google Maps](https://www.google.com/maps/place/Sol+Foods+Supermarket)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sol+Foods+Supermarket)
   - Trail snacks, drinks, sandwiches
   - Last-minute supplies
 
@@ -371,7 +371,7 @@
 
 ### Playgrounds:
 - 🏞️ **Springdale Town Park** - Small playground near library
-  - 📍 [Google Maps](https://www.google.com/maps/search/Springdale+Town+Park+Utah)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Springdale+Town+Park+Utah)
   - Good for burning energy before/after park visits
 
 ### Baby/Toddler Needs:
@@ -382,14 +382,14 @@
 - **Nursing rooms:** Limited - find quiet bench or return to car/hotel
 - **Pharmacy/Supplies:**
   - Closest pharmacy: Hurricane, UT (40 min drive)
-  - 📍 [Walgreens Hurricane](https://www.google.com/maps/search/Walgreens+Hurricane+Utah)
+  - 📍 [Walgreens Hurricane](https://www.google.com/maps/search/?api=1&query=Walgreens+Hurricane+Utah)
   - Bring all essentials with you!
 - **Grocery:** Sol Foods in Springdale (limited selection)
   - Stock up in Las Vegas before arriving!
 - **Emergency:**
-  - **Zion Canyon Medical Clinic** (Springdale) - 📍 [Google Maps](https://www.google.com/maps/place/Zion+Canyon+Medical+Clinic)
+  - **Zion Canyon Medical Clinic** (Springdale) - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Zion+Canyon+Medical+Clinic)
   - Open limited hours, call ahead: (435) 772-3226
-  - **Dixie Regional Medical Center** (St. George, UT) - 1 hour drive - 📍 [Google Maps](https://www.google.com/maps/place/Dixie+Regional+Medical+Center)
+  - **Dixie Regional Medical Center** (St. George, UT) - 1 hour drive - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Dixie+Regional+Medical+Center)
 
 ### Hiking with Kids:
 - **Carrier backpacks:** ESSENTIAL for 18-month-old on non-paved trails
