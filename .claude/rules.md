@@ -95,3 +95,28 @@ When creating detailed location pages, include:
 - Include rest days and flexible scheduling
 - Weather-appropriate clothing recommendations
 - Links back to main README.md from each location page
+
+## CRITICAL: Links Required for Every Attraction
+**For EVERY attraction, activity, or location suggested, you MUST include:**
+1. **Info Website Link**: Official website or comprehensive info page
+2. **Google Maps Link**: Direct link to Google Maps location
+
+**Format Example:**
+```markdown
+**Griffith Observatory** ⭐
+- 📍 [Google Maps](https://www.google.com/maps/place/Griffith+Observatory)
+- 🔗 [Official Website](https://griffithobservatory.org)
+- FREE admission to observatory and grounds
+```
+
+**Google Maps Link Format:**
+- Use: `https://www.google.com/maps/place/[Location+Name]`
+- For parks/trails: `https://www.google.com/maps/search/[Name]+[City]`
+- Alternative: Use direct place IDs when available
+
+**Info Website Priority:**
+1. Official attraction website (preferred)
+2. National Park Service (for NPS sites)
+3. Official tourism board pages
+4. City/county official pages
+5. TripAdvisor/Yelp only if no official source exists
