@@ -24,15 +24,15 @@
 
 **Morning:**
 - 🚗 Scenic drive from San Francisco via **Highway 1**
-  - 📍 [Google Maps: Highway 1 Route](https://www.google.com/maps/dir/San+Francisco/Monterey+via+Highway+1)
+  - 📍 [Google Maps: Highway 1 Route](https://www.google.com/maps/search/?api=1&query=Highway+1+San+Francisco+to+Monterey)
   - Consider stopping at **Half Moon Bay** for restroom break (~45 min from SF)
-    - 📍 [Google Maps](https://www.google.com/maps/place/Half+Moon+Bay,+CA)
+    - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Half+Moon+Bay+CA)
     - 🔗 [Visit Half Moon Bay](https://www.visithalfmoonbay.org)
   - Beautiful coastal views (weather permitting)
 
 **Late Morning/Afternoon:**
 - 🐟 **Monterey Bay Aquarium** ⭐⭐⭐ (MUST DO!)
-  - 📍 [Google Maps](https://www.google.com/maps/place/Monterey+Bay+Aquarium)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Aquarium+Monterey+CA)
   - 🔗 [Official Website](https://www.montereybayaquarium.org)
   - Allow 3-4 hours minimum
   - **Tickets:** $59.95/adult, $49.95/child (3-12), under 3 FREE
@@ -62,7 +62,7 @@
 
 **Evening:**
 - 🏪 **Cannery Row** - Historic waterfront area
-  - 📍 [Google Maps](https://www.google.com/maps/place/Cannery+Row,+Monterey)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Cannery+Row+Monterey+CA)
   - 🔗 [Official Info](https://www.canneryrow.com)
   - Walk along the scenic promenade
   - Ice cream shops
@@ -71,15 +71,15 @@
 
 - 🍽️ Dinner on Cannery Row
   - **Chart House**
-    - 📍 [Google Maps](https://www.google.com/maps/place/Chart+House+Monterey)
+    - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Chart+House+Monterey+CA)
     - 🔗 [Official Website](https://www.chart-house.com/locations/monterey-ca)
     - Family-friendly seafood, ocean views
   - **Bubba Gump Shrimp Co.**
-    - 📍 [Google Maps](https://www.google.com/maps/place/Bubba+Gump+Shrimp+Co.+Monterey)
+    - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Bubba+Gump+Shrimp+Co+Monterey+CA)
     - 🔗 [Official Website](https://www.bubbagump.com)
     - Casual, kids menu
   - **Scales Seafood**
-    - 📍 [Google Maps](https://www.google.com/maps/place/Scales+Seafood+%26+Steaks)
+    - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Scales+Seafood+Steaks+Monterey+CA)
     - 🔗 [Official Website](https://www.scalesseafood.com)
     - Local favorite with outdoor seating
 
@@ -91,7 +91,7 @@
 
 **Morning:**
 - 🚗 **17-Mile Drive** ($11.25 per vehicle)
-  - 📍 [Google Maps](https://www.google.com/maps/place/17-Mile+Drive)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=17-Mile+Drive+Pebble+Beach+CA)
   - 🔗 [Official Info](https://www.pebblebeach.com/17-mile-drive/)
   - Scenic toll road through Pebble Beach
   - Duration: 1.5-2 hours with stops
@@ -101,25 +101,25 @@
 
 **Key Stops Along 17-Mile Drive:**
 1. **Spanish Bay Beach**
-   - 📍 [Google Maps](https://www.google.com/maps/place/Spanish+Bay+Beach)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Spanish+Bay+Beach+Pebble+Beach+CA)
    - First stop, safe beach for kids
 2. **Point Joe**
-   - 📍 [Google Maps](https://www.google.com/maps/place/Point+Joe)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Point+Joe+17-Mile+Drive+CA)
    - Dramatic waves (great photos)
 3. **Bird Rock**
-   - 📍 [Google Maps](https://www.google.com/maps/place/Bird+Rock+17-Mile+Drive)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Bird+Rock+17-Mile+Drive+CA)
    - Sea lions, seals, pelicans
 4. **Fanshell Beach**
-   - 📍 [Google Maps](https://www.google.com/maps/place/Fanshell+Overlook)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Fanshell+Overlook+17-Mile+Drive+CA)
    - Harbor seals (seasonal)
 5. **Cypress Point Lookout**
-   - 📍 [Google Maps](https://www.google.com/maps/place/Cypress+Point+Lookout)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Cypress+Point+Lookout+17-Mile+Drive+CA)
    - Stunning views
 6. **The Lone Cypress**
-   - 📍 [Google Maps](https://www.google.com/maps/place/The+Lone+Cypress)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Lone+Cypress+17-Mile+Drive+CA)
    - Iconic photo spot
 7. **Pebble Beach Golf Links**
-   - 📍 [Google Maps](https://www.google.com/maps/place/Pebble+Beach+Golf+Links)
+   - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Pebble+Beach+Golf+Links+CA)
    - 🔗 [Official Website](https://www.pebblebeach.com)
    - Famous 18th hole view
 
@@ -127,14 +127,14 @@
 
 **Late Morning:**
 - ☕ **Carmel-by-the-Sea** - Charming village
-  - 📍 [Google Maps](https://www.google.com/maps/place/Carmel-by-the-Sea,+CA)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Carmel-by-the-Sea+CA)
   - 🔗 [Visit Carmel](https://www.carmelcalifornia.com)
   - European-style architecture
   - Dog-friendly (no chain stores!)
   - Fairytale cottages and gardens
 
 - 🏖️ **Carmel Beach**
-  - 📍 [Google Maps](https://www.google.com/maps/place/Carmel+Beach)
+  - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Carmel+Beach+Carmel+CA)
   - 🔗 [Beach Info](https://www.carmelcalifornia.com/things-to-do/beaches-parks/carmel-beach)
   - Beautiful white sand beach
   - Gentle waves (usually calm for kids)
@@ -148,15 +148,15 @@
 - 🥪 Picnic on Carmel Beach (get supplies at Carmel Plaza)
 - **OR** Lunch in Carmel village:
   - **La Bicyclette**
-    - 📍 [Google Maps](https://www.google.com/maps/place/La+Bicyclette)
+    - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Bicyclette+Carmel+CA)
     - 🔗 [Official Website](https://labicycletterestaurant.com)
     - French cafe, outdoor patio
   - **Cultura Comida y Bebida**
-    - 📍 [Google Maps](https://www.google.com/maps/place/Cultura+Comida+y+Bebida)
+    - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Cultura+Comida+y+Bebida+Carmel+CA)
     - 🔗 [Official Website](https://www.culturacarmel.com)
     - Mexican, kids menu
   - **Carmel Bakery**
-    - 📍 [Google Maps](https://www.google.com/maps/place/Carmel+Bakery)
+    - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=Carmel+Bakery+Carmel+CA)
     - 🔗 [Official Website](https://www.carmelbakery.com)
     - Sandwiches, pastries, casual
 
