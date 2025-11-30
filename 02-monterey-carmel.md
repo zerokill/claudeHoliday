@@ -24,11 +24,16 @@
 
 **Morning:**
 - 🚗 Scenic drive from San Francisco via **Highway 1**
+  - 📍 [Google Maps: Highway 1 Route](https://www.google.com/maps/dir/San+Francisco/Monterey+via+Highway+1)
   - Consider stopping at **Half Moon Bay** for restroom break (~45 min from SF)
+    - 📍 [Google Maps](https://www.google.com/maps/place/Half+Moon+Bay,+CA)
+    - 🔗 [Visit Half Moon Bay](https://www.visithalfmoonbay.org)
   - Beautiful coastal views (weather permitting)
 
 **Late Morning/Afternoon:**
 - 🐟 **Monterey Bay Aquarium** ⭐⭐⭐ (MUST DO!)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Monterey+Bay+Aquarium)
+  - 🔗 [Official Website](https://www.montereybayaquarium.org)
   - Allow 3-4 hours minimum
   - **Tickets:** $59.95/adult, $49.95/child (3-12), under 3 FREE
   - 📱 **Book online in advance** - can sell out!
@@ -57,15 +62,26 @@
 
 **Evening:**
 - 🏪 **Cannery Row** - Historic waterfront area
+  - 📍 [Google Maps](https://www.google.com/maps/place/Cannery+Row,+Monterey)
+  - 🔗 [Official Info](https://www.canneryrow.com)
   - Walk along the scenic promenade
   - Ice cream shops
   - Street performers
   - Easy stroller-friendly walking
 
 - 🍽️ Dinner on Cannery Row
-  - **Chart House** - Family-friendly seafood, ocean views
-  - **Bubba Gump Shrimp Co.** - Casual, kids menu
-  - **Scales Seafood** - Local favorite with outdoor seating
+  - **Chart House**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Chart+House+Monterey)
+    - 🔗 [Official Website](https://www.chart-house.com/locations/monterey-ca)
+    - Family-friendly seafood, ocean views
+  - **Bubba Gump Shrimp Co.**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Bubba+Gump+Shrimp+Co.+Monterey)
+    - 🔗 [Official Website](https://www.bubbagump.com)
+    - Casual, kids menu
+  - **Scales Seafood**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Scales+Seafood+%26+Steaks)
+    - 🔗 [Official Website](https://www.scalesseafood.com)
+    - Local favorite with outdoor seating
 
 **⏱️ Activity Level:** Moderate - mostly indoor aquarium
 
@@ -75,6 +91,8 @@
 
 **Morning:**
 - 🚗 **17-Mile Drive** ($11.25 per vehicle)
+  - 📍 [Google Maps](https://www.google.com/maps/place/17-Mile+Drive)
+  - 🔗 [Official Info](https://www.pebblebeach.com/17-mile-drive/)
   - Scenic toll road through Pebble Beach
   - Duration: 1.5-2 hours with stops
   - 21 marked scenic viewpoints
@@ -82,23 +100,42 @@
 📸 [17-Mile Drive Photos](https://www.pebblebeach.com/17-mile-drive/)
 
 **Key Stops Along 17-Mile Drive:**
-1. **Spanish Bay Beach** - First stop, safe beach for kids
-2. **Point Joe** - Dramatic waves (great photos)
-3. **Bird Rock** - Sea lions, seals, pelicans
-4. **Fanshell Beach** - Harbor seals (seasonal)
-5. **Cypress Point Lookout** - Stunning views
-6. **The Lone Cypress** - Iconic photo spot
-7. **Pebble Beach Golf Links** - Famous 18th hole view
+1. **Spanish Bay Beach**
+   - 📍 [Google Maps](https://www.google.com/maps/place/Spanish+Bay+Beach)
+   - First stop, safe beach for kids
+2. **Point Joe**
+   - 📍 [Google Maps](https://www.google.com/maps/place/Point+Joe)
+   - Dramatic waves (great photos)
+3. **Bird Rock**
+   - 📍 [Google Maps](https://www.google.com/maps/place/Bird+Rock+17-Mile+Drive)
+   - Sea lions, seals, pelicans
+4. **Fanshell Beach**
+   - 📍 [Google Maps](https://www.google.com/maps/place/Fanshell+Overlook)
+   - Harbor seals (seasonal)
+5. **Cypress Point Lookout**
+   - 📍 [Google Maps](https://www.google.com/maps/place/Cypress+Point+Lookout)
+   - Stunning views
+6. **The Lone Cypress**
+   - 📍 [Google Maps](https://www.google.com/maps/place/The+Lone+Cypress)
+   - Iconic photo spot
+7. **Pebble Beach Golf Links**
+   - 📍 [Google Maps](https://www.google.com/maps/place/Pebble+Beach+Golf+Links)
+   - 🔗 [Official Website](https://www.pebblebeach.com)
+   - Famous 18th hole view
 
 > 👶 **Family Tip:** Stay in car for most viewpoints with 18-month-old. Stop at 2-3 favorites where you can walk around safely. Bird Rock and Spanish Bay are best for kids.
 
 **Late Morning:**
 - ☕ **Carmel-by-the-Sea** - Charming village
+  - 📍 [Google Maps](https://www.google.com/maps/place/Carmel-by-the-Sea,+CA)
+  - 🔗 [Visit Carmel](https://www.carmelcalifornia.com)
   - European-style architecture
   - Dog-friendly (no chain stores!)
   - Fairytale cottages and gardens
 
 - 🏖️ **Carmel Beach**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Carmel+Beach)
+  - 🔗 [Beach Info](https://www.carmelcalifornia.com/things-to-do/beaches-parks/carmel-beach)
   - Beautiful white sand beach
   - Gentle waves (usually calm for kids)
   - Stroller-friendly boardwalk access
@@ -110,13 +147,24 @@
 **Lunch:**
 - 🥪 Picnic on Carmel Beach (get supplies at Carmel Plaza)
 - **OR** Lunch in Carmel village:
-  - **La Bicyclette** - French cafe, outdoor patio
-  - **Cultura Comida y Bebida** - Mexican, kids menu
-  - **Carmel Bakery** - Sandwiches, pastries, casual
+  - **La Bicyclette**
+    - 📍 [Google Maps](https://www.google.com/maps/place/La+Bicyclette)
+    - 🔗 [Official Website](https://labicycletterestaurant.com)
+    - French cafe, outdoor patio
+  - **Cultura Comida y Bebida**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Cultura+Comida+y+Bebida)
+    - 🔗 [Official Website](https://www.culturacarmel.com)
+    - Mexican, kids menu
+  - **Carmel Bakery**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Carmel+Bakery)
+    - 🔗 [Official Website](https://www.carmelbakery.com)
+    - Sandwiches, pastries, casual
 
 **Afternoon (Choose One):**
 
 **Option A: Point Lobos State Natural Reserve** (if kids are good)
+- 📍 [Google Maps](https://www.google.com/maps/place/Point+Lobos+State+Natural+Reserve)
+- 🔗 [Official Website](https://www.parks.ca.gov/?page_id=571)
 - 10 min south of Carmel
 - $10 day use fee
 - Easy coastal trails
@@ -128,7 +176,10 @@
 - 🎨 Walk through village
 - Window shopping
 - **Devendorf Park** - Playground! (Ocean Ave & Junipero)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Devendorf+Park)
 - Ice cream at **Carmel Honey Company**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Carmel+Honey+Company)
+  - 🔗 [Official Website](https://www.carmelhoney.com)
 - Rest/nap time at hotel
 
 **Evening:**
@@ -161,10 +212,22 @@
 ## 🏨 Where to Stay
 
 **Budget-Friendly Options:**
-- **Monterey Bay Lodge** - $150-200/night, near aquarium
-- **Ramada by Wyndham Monterey** - $130-180/night, pool
-- **Comfort Inn Monterey** - $140-190/night, continental breakfast
-- **Casa Munras Garden Hotel** - $160-220/night, historic, family suites
+- **Monterey Bay Lodge**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Monterey+Bay+Lodge)
+  - 🔗 [Official Website](https://www.montereybaylodge.com)
+  - $150-200/night, near aquarium
+- **Ramada by Wyndham Monterey**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Ramada+by+Wyndham+Monterey)
+  - 🔗 [Book Direct](https://www.wyndhamhotels.com)
+  - $130-180/night, pool
+- **Comfort Inn Monterey**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Comfort+Inn+Monterey)
+  - 🔗 [Book Direct](https://www.choicehotels.com)
+  - $140-190/night, continental breakfast
+- **Casa Munras Garden Hotel**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Casa+Munras+Garden+Hotel+%26+Spa)
+  - 🔗 [Official Website](https://www.hotelcasamunras.com)
+  - $160-220/night, historic, family suites
 
 **Location Tip:** Stay in Monterey (near aquarium/Cannery Row) rather than Carmel for better value and convenience with young kids.
 
@@ -172,14 +235,14 @@
 
 ## 🍽️ Family-Friendly Restaurants
 
-| Restaurant | Cuisine | Why It's Great | Price |
-|------------|---------|----------------|-------|
-| **Bubba Gump Shrimp** | Seafood | Kids menu, casual, fun theme | $$ |
-| **Loulou's Griddle** | Breakfast | Amazing pancakes, high chairs | $ |
-| **Fisherman's Wharf** | Various | Multiple options, outdoor seating | $-$$ |
-| **Carmel Bakery** | Cafe | Quick, kid-friendly, pastries | $ |
-| **La Tortuga** | Mexican | Family-run, authentic, casual | $$ |
-| **First Awakenings** | Breakfast/Lunch | Local favorite, big portions | $ |
+| Restaurant | Cuisine | Why It's Great | Price | Links |
+|------------|---------|----------------|-------|-------|
+| **Bubba Gump Shrimp** | Seafood | Kids menu, casual, fun theme | $$ | 📍 [Maps](https://www.google.com/maps/place/Bubba+Gump+Shrimp+Co.+Monterey) 🔗 [Website](https://www.bubbagump.com) |
+| **Loulou's Griddle** | Breakfast | Amazing pancakes, high chairs | $ | 📍 [Maps](https://www.google.com/maps/place/Loulou's+Griddle+in+the+Middle) 🔗 [Website](https://loulousgriddle.com) |
+| **Fisherman's Wharf** | Various | Multiple options, outdoor seating | $-$$ | 📍 [Maps](https://www.google.com/maps/place/Fisherman's+Wharf+Monterey) 🔗 [Info](https://www.montereywharf.com) |
+| **Carmel Bakery** | Cafe | Quick, kid-friendly, pastries | $ | 📍 [Maps](https://www.google.com/maps/place/Carmel+Bakery) 🔗 [Website](https://www.carmelbakery.com) |
+| **La Tortuga** | Mexican | Family-run, authentic, casual | $$ | 📍 [Maps](https://www.google.com/maps/place/La+Tortuga+Taqueria) |
+| **First Awakenings** | Breakfast/Lunch | Local favorite, big portions | $ | 📍 [Maps](https://www.google.com/maps/place/First+Awakenings) 🔗 [Website](https://www.firstawakenings.net) |
 
 💡 **Tip:** Many restaurants on Cannery Row offer kids-eat-free specials on certain days!
 
@@ -188,9 +251,16 @@
 ## 👶 Kid Essentials
 
 ### Playgrounds:
-- 🏞️ **Dennis the Menace Park** (Pearl St, Monterey) - Excellent! Vintage playground
-- 🏞️ **Devendorf Park** (Carmel) - Small but nice, downtown
-- 🏞️ **Window on the Bay Park** (Cannery Row) - Ocean views, small play area
+- 🏞️ **Dennis the Menace Park** (Pearl St, Monterey)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Dennis+the+Menace+Park)
+  - 🔗 [Park Info](https://www.monterey.org/Services/Community-Services/Parks-Beaches/Dennis-the-Menace-Park)
+  - Excellent! Vintage playground
+- 🏞️ **Devendorf Park** (Carmel)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Devendorf+Park)
+  - Small but nice, downtown
+- 🏞️ **Window on the Bay Park** (Cannery Row)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Window+on+the+Bay+Park)
+  - Ocean views, small play area
 
 ### Baby/Toddler Needs:
 - **Changing facilities:** Aquarium (excellent), most restaurants

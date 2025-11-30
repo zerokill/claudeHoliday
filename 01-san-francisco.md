@@ -30,6 +30,8 @@
 
 **Afternoon (Take it Easy):**
 - 🦭 **Pier 39** - Famous sea lion colony! (FREE)
+  - 📍 [Google Maps](https://www.google.com/maps/place/PIER+39)
+  - 🔗 [Official Website](https://www.pier39.com)
   - 300+ California sea lions (loudest in afternoon!)
   - Street performers, magicians, musicians
   - Carousel - $5/ride (great for both kids)
@@ -41,9 +43,18 @@
 
 **Evening:**
 - 🍽️ **Dinner at Fisherman's Wharf**
-  - **Boudin Bakery & Cafe** - Clam chowder in sourdough bowls, high chairs
-  - **Alioto's** - Family-style Italian-seafood since 1925
-  - **In-N-Out Burger** (Taylor St) - California classic, kid-friendly
+  - **Boudin Bakery & Cafe**
+    - 📍 [Google Maps](https://www.google.com/maps/search/Boudin+Bakery+Fisherman's+Wharf)
+    - 🔗 [Official Website](https://www.boudinbakery.com)
+    - Clam chowder in sourdough bowls, high chairs
+  - **Alioto's**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Alioto's+Restaurant)
+    - 🔗 [Official Website](https://www.aliotos.com)
+    - Family-style Italian-seafood since 1925
+  - **In-N-Out Burger** (Taylor St)
+    - 📍 [Google Maps](https://www.google.com/maps/search/In-N-Out+Burger+San+Francisco+Taylor)
+    - 🔗 [Official Website](https://www.in-n-out.com)
+    - California classic, kid-friendly
 
 - 🌅 **Evening stroll** along Embarcadero (if energy allows)
 
@@ -55,7 +66,10 @@
 
 **Morning:**
 - 🌉 **Golden Gate Bridge**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Golden+Gate+Bridge)
+  - 🔗 [Official Website](https://www.goldengate.org)
   - 🚗 Drive to **Battery Spencer** (Marin side) for BEST photos
+    - 📍 [Google Maps](https://www.google.com/maps/place/Battery+Spencer)
     - 15-20 min from Fisherman's Wharf
     - Classic postcard view
     - Short walk from parking (can carry toddler)
@@ -71,6 +85,8 @@
 > 👶 **With Kids:** Walk 10-15 minutes out for photos, then turn back. Wind can be strong - secure hats! Baby carrier easier than stroller if windy.
 
 - ☕ **Sausalito Stop** (optional, 10 min from bridge)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Sausalito,+CA)
+  - 🔗 [Visit Sausalito](https://www.sausalito.org)
   - Charming Mediterranean-style waterfront town
   - Ice cream, cafes, easy walking
   - Skip if kids are tired
@@ -81,6 +97,8 @@
 
 **Afternoon:**
 - 🚡 **Cable Car Ride** ⭐ MUST DO!
+  - 📍 [Google Maps](https://www.google.com/maps/place/Powell+Street+Cable+Car+Turnaround)
+  - 🔗 [Official Info](https://www.sfmta.com/getting-around/muni/cable-cars)
   - **Powell-Hyde line** (most scenic) OR **Powell-Mason**
   - Board at: Powell & Market (near Union Square)
   - Ride to: Hyde & Beach (near Fisherman's Wharf)
@@ -99,6 +117,8 @@
 **Late Afternoon (Choose One):**
 
 **Option 1: Exploratorium** (best for 5-year-old)
+- 📍 [Google Maps](https://www.google.com/maps/place/Exploratorium)
+- 🔗 [Official Website](https://www.exploratorium.edu)
 - Pier 15, walkable from cable car endpoint
 - Hands-on science museum
 - $39.95/adult, kids under 4 FREE
@@ -106,18 +126,36 @@
 - Indoor fun if weather is foggy
 
 **Option 2: Playground & Rest**
-- **Sue Bierman Park** (Embarcadero) - Great toddler playground
-- **Washington Square Park** (North Beach) - Classic SF playground
+- **Sue Bierman Park** (Embarcadero)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Sue+Bierman+Park)
+  - 🔗 [SF Parks Info](https://sfrecpark.org/Facilities/Facility/Details/Sue-Bierman-Park-172)
+  - Great toddler playground
+- **Washington Square Park** (North Beach)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Washington+Square,+San+Francisco)
+  - 🔗 [SF Parks Info](https://sfrecpark.org/facilities/facility/details/Washington-Square-384)
+  - Classic SF playground
 - Nap time for 18-month-old
 
 **Evening:**
 - 🍕 **Dinner in North Beach** (Little Italy)
-  - **Tony's Pizza Napoletana** - Award-winning, casual
-  - **Mama's on Washington Square** - Breakfast/lunch only (if you go Option 2)
-  - **Golden Boy Pizza** - Cheap, delicious, thick-crust squares
+  - **Tony's Pizza Napoletana**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Tony's+Pizza+Napoletana)
+    - 🔗 [Official Website](https://www.tonyspizzanapoletana.com)
+    - Award-winning, casual
+  - **Mama's on Washington Square**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Mama's+on+Washington+Square)
+    - 🔗 [Official Website](https://www.mamas-sf.com)
+    - Breakfast/lunch only (if you go Option 2)
+  - **Golden Boy Pizza**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Golden+Boy+Pizza)
+    - 🔗 [Info](https://www.goldenboypizza.com)
+    - Cheap, delicious, thick-crust squares
 
 - 🍦 **Gelato** at North Beach cafe
-  - **Gelato Classico** or **Naia Gelato**
+  - **Gelato Classico**
+    - 📍 [Google Maps](https://www.google.com/maps/search/Gelato+Classico+San+Francisco)
+  - **Naia Gelato**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Naia+Gelato)
 
 **⏱️ Activity Level:** Moderate to High
 
@@ -128,6 +166,8 @@
 #### Option A: Point Reyes National Seashore ⭐ HIGHLY RECOMMENDED
 
 **Perfect for:** Nature-loving families, wildlife, coastal beauty
+- 📍 [Google Maps](https://www.google.com/maps/place/Point+Reyes+National+Seashore)
+- 🔗 [Official NPS Website](https://www.nps.gov/pore)
 
 📸 [View Photos: Point Reyes NPS Gallery](https://www.nps.gov/pore/learn/photosmultimedia/photogallery.htm)
 
@@ -135,6 +175,8 @@
 
 **Morning (8:00 AM departure):**
 - 🦌 **Tule Elk Reserve** (Tomales Point)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Tule+Elk+Reserve)
+  - 🔗 [NPS Info](https://www.nps.gov/pore/planyourvisit/tule_elk_area.htm)
   - FREE! Park at trailhead
   - Usually see elk herd from parking area or short walk
   - Bring binoculars if you have them
@@ -143,11 +185,15 @@
 - 🚗 **Scenic drive** through Point Reyes
   - Rolling hills, dairy farms, Pacific views
   - Stop at **Point Reyes Visitor Center** (Bear Valley)
+    - 📍 [Google Maps](https://www.google.com/maps/place/Bear+Valley+Visitor+Center)
+    - 🔗 [NPS Visitor Center Info](https://www.nps.gov/pore/planyourvisit/visitor_center.htm)
     - Junior Ranger program for 5-year-old
     - Clean restrooms, visitor info
 
 **Midday:**
 - 🌊 **Point Reyes Lighthouse** (weather permitting)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Point+Reyes+Lighthouse)
+  - 🔗 [NPS Lighthouse Info](https://www.nps.gov/pore/planyourvisit/lighthouse.htm)
   - **308 steps down** to lighthouse (and back up!)
   - ⚠️ **Challenging with young kids** - consider skipping stairs
   - **Alternative:** Enjoy viewpoint at top (no stairs, stunning!)
@@ -155,19 +201,34 @@
   - VERY windy - jackets essential!
 
 - 🥪 **Picnic Lunch:**
-  - **Drakes Beach** - Beautiful, protected cove
-  - Tables, restrooms, visitor center
-  - Kids can play in sand
-  - Water too cold for swimming (12°C)
+  - **Drakes Beach**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Drakes+Beach)
+    - 🔗 [NPS Beach Info](https://www.nps.gov/pore/planyourvisit/drakes_beach.htm)
+    - Beautiful, protected cove
+    - Tables, restrooms, visitor center
+    - Kids can play in sand
+    - Water too cold for swimming (12°C)
 
 **Afternoon:**
 - 🐄 **Point Reyes Station** (cute town)
-  - **Cowgirl Creamery** - Amazing artisan cheese (free samples!)
-  - **Toby's Feed Barn** - Coffee, pastries, outdoor seating
-  - **Bovine Bakery** - Cinnamon rolls (huge!)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Point+Reyes+Station,+CA)
+  - 🔗 [Visit Point Reyes](https://www.visitpointreyes.com)
+  - **Cowgirl Creamery**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Cowgirl+Creamery)
+    - 🔗 [Official Website](https://www.cowgirlcreamery.com)
+    - Amazing artisan cheese (free samples!)
+  - **Toby's Feed Barn**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Toby's+Feed+Barn)
+    - Coffee, pastries, outdoor seating
+  - **Bovine Bakery**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Bovine+Bakery)
+    - 🔗 [Website](https://www.bovinebakery.com)
+    - Cinnamon rolls (huge!)
   - Small town charm, easy walking
 
 - 🌲 **Bear Valley Trail** (if time/energy)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Bear+Valley+Trail)
+  - 🔗 [NPS Trail Info](https://www.nps.gov/pore/planyourvisit/bear_valley_trail.htm)
   - Easy, flat, shaded forest trail
   - Stroller-friendly for first km
   - Nice stretch-your-legs stop
@@ -186,6 +247,8 @@
 
 **Morning:**
 - 🏝️ **Alcatraz Island Tour** ⭐ (BOOK 2+ WEEKS AHEAD!)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Alcatraz+Island)
+  - 🔗 [Official Tickets](https://www.alcatrazcruises.com)
   - Departs from Pier 33
   - **Tickets:** $41/adult, $40/child (5-11), under 5 FREE
   - **Duration:** 2.5-3 hours total (ferry + island time)
@@ -198,16 +261,28 @@
 
 **Afternoon:**
 - 🌸 **Golden Gate Park** (western SF)
-  - **California Academy of Sciences** - $39.95/adult, under 4 free
+  - 📍 [Google Maps](https://www.google.com/maps/place/Golden+Gate+Park)
+  - 🔗 [SF Parks Info](https://sfrecpark.org/Facilities/Facility/Details/Golden-Gate-Park-362)
+  - **California Academy of Sciences**
+    - 📍 [Google Maps](https://www.google.com/maps/place/California+Academy+of+Sciences)
+    - 🔗 [Official Website](https://www.calacademy.org)
+    - $39.95/adult, under 4 free
     - Aquarium, planetarium, rainforest dome
     - 3-4 hours needed
-  - **Japanese Tea Garden** - $10/adult, kids under 5 free
+  - **Japanese Tea Garden**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Japanese+Tea+Garden)
+    - 🔗 [Official Info](https://www.japaneseteagardensf.com)
+    - $10/adult, kids under 5 free
     - Beautiful, peaceful, good for photos
   - **Playgrounds** throughout park
-  - **Stow Lake** - Paddle boats (if weather nice)
+  - **Stow Lake**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Stow+Lake)
+    - Paddle boats (if weather nice)
 
 **Evening:**
 - 🌆 **Twin Peaks Sunset** (drive up)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Twin+Peaks)
+  - 🔗 [SF Travel Info](https://www.sftravel.com/article/twin-peaks)
   - 360° city views
   - Can see Golden Gate Bridge, downtown, bay
   - Very windy and cold - quick stop from car
@@ -242,14 +317,32 @@
 ## 🏨 Where to Stay
 
 **Budget-Friendly Options Near Fisherman's Wharf:**
-- **Holiday Inn Express Fisherman's Wharf** - $180-250/night, breakfast included
-- **Travelodge by Wyndham** - $130-180/night, budget option
-- **Best Western Plus Tuscan Inn** - $160-220/night, near Pier 39
-- **Courtyard by Marriott** - $200-280/night, family suites
+- **Holiday Inn Express Fisherman's Wharf**
+  - 📍 [Google Maps](https://www.google.com/maps/search/Holiday+Inn+Express+Fisherman's+Wharf+San+Francisco)
+  - 🔗 [Book Direct](https://www.ihg.com)
+  - $180-250/night, breakfast included
+- **Travelodge by Wyndham**
+  - 📍 [Google Maps](https://www.google.com/maps/search/Travelodge+Fisherman's+Wharf+San+Francisco)
+  - 🔗 [Book Direct](https://www.wyndhamhotels.com)
+  - $130-180/night, budget option
+- **Best Western Plus Tuscan Inn**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Best+Western+Plus+Tuscan+Inn)
+  - 🔗 [Book Direct](https://www.bestwestern.com)
+  - $160-220/night, near Pier 39
+- **Courtyard by Marriott**
+  - 📍 [Google Maps](https://www.google.com/maps/search/Courtyard+Marriott+Fisherman's+Wharf)
+  - 🔗 [Book Direct](https://www.marriott.com)
+  - $200-280/night, family suites
 
 **Union Square Area (More Central):**
-- **Hotel Zephyr** - $180-250/night, nautical theme, near Pier 39
-- **Handlery Union Square** - $150-220/night, central location, pool
+- **Hotel Zephyr**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Hotel+Zephyr)
+  - 🔗 [Official Website](https://www.hotelzephyrsf.com)
+  - $180-250/night, nautical theme, near Pier 39
+- **Handlery Union Square**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Handlery+Union+Square+Hotel)
+  - 🔗 [Official Website](https://www.handlery.com)
+  - $150-220/night, central location, pool
 
 💡 **Tip:** Stay near Fisherman's Wharf for easier logistics with young kids. Walking distance to Pier 39, ferries, cable cars.
 
@@ -257,15 +350,15 @@
 
 ## 🍽️ Family-Friendly Restaurants
 
-| Restaurant | Cuisine | Why It's Great | Price |
-|------------|---------|----------------|-------|
-| **Boudin Bakery** | American | Sourdough bowls, high chairs, casual | $-$$ |
-| **In-N-Out Burger** | Burgers | California classic, kids love it | $ |
-| **Scoma's** | Seafood | Waterfront, crayons for kids | $$-$$$ |
-| **Tony's Pizza** | Pizza | Award-winning, kid portions available | $$ |
-| **Mama's on Washington Sq** | Breakfast | Best brunch, worth wait (opens 8 AM) | $$ |
-| **Fog Harbor Fish House** | Seafood | Pier 39, views, kids menu | $$-$$$ |
-| **Gary Danko** | Fine Dining | Skip with kids - save for date night! | $$$$ |
+| Restaurant | Cuisine | Why It's Great | Price | Links |
+|------------|---------|----------------|-------|-------|
+| **Boudin Bakery** | American | Sourdough bowls, high chairs, casual | $-$$ | 📍 [Maps](https://www.google.com/maps/search/Boudin+Bakery+Fisherman's+Wharf) 🔗 [Website](https://www.boudinbakery.com) |
+| **In-N-Out Burger** | Burgers | California classic, kids love it | $ | 📍 [Maps](https://www.google.com/maps/search/In-N-Out+Burger+San+Francisco) 🔗 [Website](https://www.in-n-out.com) |
+| **Scoma's** | Seafood | Waterfront, crayons for kids | $$-$$$ | 📍 [Maps](https://www.google.com/maps/place/Scoma's+Restaurant) 🔗 [Website](https://www.scomas.com) |
+| **Tony's Pizza** | Pizza | Award-winning, kid portions available | $$ | 📍 [Maps](https://www.google.com/maps/place/Tony's+Pizza+Napoletana) 🔗 [Website](https://www.tonyspizzanapoletana.com) |
+| **Mama's on Washington Sq** | Breakfast | Best brunch, worth wait (opens 8 AM) | $$ | 📍 [Maps](https://www.google.com/maps/place/Mama's+on+Washington+Square) 🔗 [Website](https://www.mamas-sf.com) |
+| **Fog Harbor Fish House** | Seafood | Pier 39, views, kids menu | $$-$$$ | 📍 [Maps](https://www.google.com/maps/place/Fog+Harbor+Fish+House) 🔗 [Website](https://www.fogharbor.com) |
+| **Gary Danko** | Fine Dining | Skip with kids - save for date night! | $$$$ | 📍 [Maps](https://www.google.com/maps/place/Gary+Danko) 🔗 [Website](https://www.garydanko.com) |
 
 💡 **Budget Tip:** Ferry Building Marketplace has many affordable food stalls with outdoor seating. Great for picky eaters!
 
@@ -274,10 +367,18 @@
 ## 👶 Kid Essentials
 
 ### Best Playgrounds:
-- 🏞️ **Sue Bierman Park** (Embarcadero) - Excellent for toddlers, near Pier 39
-- 🏞️ **Washington Square Park** (North Beach) - Classic SF playground, swings
-- 🏞️ **Golden Gate Park** - Multiple playgrounds throughout
-- 🏞️ **Dolores Park** - Mission District, great views, popular
+- 🏞️ **Sue Bierman Park** (Embarcadero)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Sue+Bierman+Park)
+  - Excellent for toddlers, near Pier 39
+- 🏞️ **Washington Square Park** (North Beach)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Washington+Square,+San+Francisco)
+  - Classic SF playground, swings
+- 🏞️ **Golden Gate Park**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Golden+Gate+Park)
+  - Multiple playgrounds throughout
+- 🏞️ **Dolores Park**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Dolores+Park)
+  - Mission District, great views, popular
 
 ### Baby/Toddler Needs:
 - **Changing facilities:** All major attractions, Ferry Building, museums

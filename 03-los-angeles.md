@@ -30,15 +30,20 @@
 
 **Must-Stop Photo Spots (Budget 15-20 min each):**
 1. **Bixby Bridge** (~25 km south of Monterey)
+   - 📍 [Google Maps](https://www.google.com/maps/place/Bixby+Bridge)
    - Iconic arch bridge photo
    - Pullout on north side
 
 2. **McWay Falls** (~95 km from Monterey)
+   - 📍 [Google Maps](https://www.google.com/maps/place/McWay+Falls)
+   - 🔗 [State Park Info](https://www.parks.ca.gov/?page_id=578)
    - Waterfall onto beach - stunning!
    - Julia Pfeiffer Burns State Park ($10 parking)
    - Short walk from parking (stroller-friendly)
 
 3. **Elephant Seal Vista Point** (if interested)
+   - 📍 [Google Maps](https://www.google.com/maps/place/Piedras+Blancas+Elephant+Seal+Rookery)
+   - 🔗 [Info](https://www.elephantseal.org)
    - See massive elephant seals
    - FREE pullout
    - Kids love seeing these giant animals!
@@ -59,11 +64,15 @@
 
 **Evening:**
 - 🏖️ **Santa Monica Beach** - First beach time!
+  - 📍 [Google Maps](https://www.google.com/maps/place/Santa+Monica+Beach)
+  - 🔗 [Official Info](https://www.santamonica.com/beaches/)
   - Walk to beach from hotel
   - Let kids play in sand
   - Watch sunset (~7:15 PM in late April)
 
 - 🍽️ Casual dinner on **Third Street Promenade**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Third+Street+Promenade)
+  - 🔗 [Official Info](https://downtownsm.com/property/third-street-promenade/)
   - Pedestrian outdoor mall
   - Street performers
   - Many restaurant options
@@ -76,12 +85,19 @@
 
 **Morning:**
 - 🎡 **Santa Monica Pier** ⭐
+  - 📍 [Google Maps](https://www.google.com/maps/place/Santa+Monica+Pier)
+  - 🔗 [Official Website](https://www.santamonicapier.org)
   - Iconic California landmark since 1909
   - **Pacific Park** amusement area
+    - 📍 [Google Maps](https://www.google.com/maps/place/Pacific+Park)
+    - 🔗 [Official Website](https://www.pacpark.com)
     - Ferris wheel, carousel, arcade
     - Rides: $5-10 each (or wristband $32.95)
     - Carousel perfect for both kids!
-  - **Aquarium under the Pier** - $5 suggested donation
+  - **Aquarium under the Pier**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Heal+the+Bay+Aquarium)
+    - 🔗 [Official Website](https://healthebay.org/aquarium/)
+    - $5 suggested donation
   - Fishing, street performers, ocean views
 
 📸 [Santa Monica Pier Photos](https://www.santamonicapier.org/gallery/)
@@ -95,21 +111,32 @@
 
 **Late Morning/Lunch:**
 - 🏖️ **Santa Monica Beach**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Santa+Monica+Beach)
+  - 🔗 [Beach Info](https://www.santamonica.com/beaches/)
   - Play in sand
   - Wade in ocean (water ~15°C - chilly!)
   - Build sandcastles
   - Wide, clean, lifeguard-patrolled
 
 - 🍔 Lunch on beach or pier
-  - **Rusty's Surf Ranch** (pier) - Burgers, casual
+  - **Rusty's Surf Ranch** (pier)
+    - 📍 [Google Maps](https://www.google.com/maps/place/Rusty's+Surf+Ranch)
+    - 🔗 [Official Website](https://www.rustyssurfranch.com)
+    - Burgers, casual
   - Beach picnic option
 
 **Afternoon:**
 - 🚴 **Venice Beach** (3 km south - short drive or bike)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Venice+Beach)
+  - 🔗 [Visit Venice](https://www.venicebeach.com)
   - Walk **Venice Boardwalk**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Venice+Beach+Boardwalk)
   - Street performers, artists, muscle beach
   - Colorful, eclectic LA vibe
-  - **Venice Canals** - Beautiful, quiet (if boardwalk too busy)
+  - **Venice Canals**
+    - 📍 [Google Maps](https://www.google.com/maps/place/Venice+Canals)
+    - 🔗 [Canals Info](https://www.discoverlosangeles.com/things-to-do/the-venice-canals-walkway)
+    - Beautiful, quiet (if boardwalk too busy)
 
 📸 [Venice Beach Photos](https://www.visitcalifornia.com/attraction/venice-beach)
 
@@ -128,6 +155,8 @@
 
 **Morning:**
 - 🔭 **Griffith Observatory** ⭐ MUST SEE!
+  - 📍 [Google Maps](https://www.google.com/maps/place/Griffith+Observatory)
+  - 🔗 [Official Website](https://griffithobservatory.org)
   - 30-40 min drive from Santa Monica (traffic dependent)
   - **FREE admission** to observatory and grounds
   - Opens 12:00 PM (Tuesday-Friday)
@@ -154,6 +183,8 @@
 **Afternoon (Choose One):**
 
 **Option A: The Getty Center** (art lovers)
+- 📍 [Google Maps](https://www.google.com/maps/place/The+Getty+Center)
+- 🔗 [Official Website](https://www.getty.edu/visit/)
 - West LA, 20 min from Santa Monica
 - **FREE admission** (parking $20)
 - Beautiful architecture, gardens, views
@@ -167,6 +198,8 @@
 - Rest before evening
 
 **Option C: La Brea Tar Pits** (if kids interested)
+- 📍 [Google Maps](https://www.google.com/maps/place/La+Brea+Tar+Pits)
+- 🔗 [Official Website](https://tarpits.org)
 - Museum + outdoor tar pits
 - See real fossils being excavated
 - $15/adult, kids under 3 free
@@ -207,14 +240,32 @@
 **Stay in SANTA MONICA** (Avoid Downtown LA with young kids!)
 
 **Budget-Friendly Beach Options:**
-- **Best Western Plus Gateway** - $150-220/night, near pier
-- **Sea Blue Hotel** - $180-250/night, boutique, 2 blocks to beach
-- **Comfort Inn Santa Monica** - $140-200/night, continental breakfast
-- **Bayside Hotel** - $160-230/night, close to pier
+- **Best Western Plus Gateway**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Best+Western+Plus+Gateway+Hotel+Santa+Monica)
+  - 🔗 [Book Direct](https://www.bestwestern.com)
+  - $150-220/night, near pier
+- **Sea Blue Hotel**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Sea+Blue+Hotel)
+  - 🔗 [Official Website](https://seabluehotel.com)
+  - $180-250/night, boutique, 2 blocks to beach
+- **Comfort Inn Santa Monica**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Comfort+Inn+Santa+Monica)
+  - 🔗 [Book Direct](https://www.choicehotels.com)
+  - $140-200/night, continental breakfast
+- **Bayside Hotel**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Bayside+Hotel)
+  - 🔗 [Official Website](https://baysidehotel.com)
+  - $160-230/night, close to pier
 
 **Mid-Range:**
-- **Shore Hotel** - $220-320/night, eco-friendly, rooftop pool
-- **Hotel Carmel** - $180-280/night, walkable to beach
+- **Shore Hotel**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Shore+Hotel)
+  - 🔗 [Official Website](https://shorehotel.com)
+  - $220-320/night, eco-friendly, rooftop pool
+- **Hotel Carmel**
+  - 📍 [Google Maps](https://www.google.com/maps/place/Hotel+Carmel)
+  - 🔗 [Official Website](https://hotelcarmelsantamonica.com)
+  - $180-280/night, walkable to beach
 
 💡 **Location Tip:** Stay within 5 blocks of beach. You'll walk everywhere - parking is expensive/difficult. Ocean Ave or 2nd-4th Streets ideal.
 
@@ -222,14 +273,14 @@
 
 ## 🍽️ Family-Friendly Restaurants
 
-| Restaurant | Cuisine | Why It's Great | Price |
-|------------|---------|----------------|-------|
-| **Huckleberry Cafe** | Breakfast/Lunch | Organic, kids menu, pastries | $$ |
-| **Rusty's Surf Ranch** | American | On pier, burgers, ocean views | $$ |
-| **The Albright** | Seafood | Santa Monica, upscale casual | $$-$$$ |
-| **Wahoo's Fish Taco** | Mexican | Fast-casual, healthy, cheap | $ |
-| **True Food Kitchen** | Healthy | Kids menu, organic, spacious | $$ |
-| **Bay Cities Italian Deli** | Sandwiches | BEST sandwiches, picnic beach | $ |
+| Restaurant | Cuisine | Why It's Great | Price | Links |
+|------------|---------|----------------|-------|-------|
+| **Huckleberry Cafe** | Breakfast/Lunch | Organic, kids menu, pastries | $$ | 📍 [Maps](https://www.google.com/maps/place/Huckleberry+Cafe+%26+Bakery) 🔗 [Website](https://huckleberrycafe.com) |
+| **Rusty's Surf Ranch** | American | On pier, burgers, ocean views | $$ | 📍 [Maps](https://www.google.com/maps/place/Rusty's+Surf+Ranch) 🔗 [Website](https://www.rustyssurfranch.com) |
+| **The Albright** | Seafood | Santa Monica, upscale casual | $$-$$$ | 📍 [Maps](https://www.google.com/maps/place/The+Albright) 🔗 [Website](https://thealbrightla.com) |
+| **Wahoo's Fish Taco** | Mexican | Fast-casual, healthy, cheap | $ | 📍 [Maps](https://www.google.com/maps/search/Wahoo's+Fish+Taco+Santa+Monica) 🔗 [Website](https://www.wahoos.com) |
+| **True Food Kitchen** | Healthy | Kids menu, organic, spacious | $$ | 📍 [Maps](https://www.google.com/maps/place/True+Food+Kitchen+Santa+Monica) 🔗 [Website](https://www.truefoodkitchen.com) |
+| **Bay Cities Italian Deli** | Sandwiches | BEST sandwiches, picnic beach | $ | 📍 [Maps](https://www.google.com/maps/place/Bay+Cities+Italian+Deli) 🔗 [Website](https://www.baycitiesitaliandeli.com) |
 
 💡 **Budget Tip:** Get sandwiches from Bay Cities, picnic on beach = cheap and memorable!
 
@@ -238,9 +289,17 @@
 ## 👶 Kid Essentials
 
 ### Best Playgrounds:
-- 🏞️ **Tongva Park** (Santa Monica) - Beautiful, ocean views, all ages
-- 🏞️ **Airport Park** (Santa Monica) - Great toddler area
-- 🏞️ **Shane's Inspiration** (Griffith Park) - Inclusive playground, near observatory
+- 🏞️ **Tongva Park** (Santa Monica)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Tongva+Park)
+  - 🔗 [Park Info](https://www.smgov.net/Departments/CCS/content.aspx?id=20023)
+  - Beautiful, ocean views, all ages
+- 🏞️ **Airport Park** (Santa Monica)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Airport+Park)
+  - Great toddler area
+- 🏞️ **Shane's Inspiration** (Griffith Park)
+  - 📍 [Google Maps](https://www.google.com/maps/place/Shane's+Inspiration+Playground)
+  - 🔗 [Park Info](https://www.laparks.org/griffithpark/shanes-inspiration)
+  - Inclusive playground, near observatory
 
 ### Beach Gear:
 - **Rent:** Beach chairs, umbrellas at Santa Monica Beach (~$15-20/day)
