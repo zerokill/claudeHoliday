@@ -9,10 +9,10 @@
 
 ```
 San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
-→ Zion National Park → Death Valley → Yosemite → San Francisco
+→ Zion National Park → Yosemite → San Francisco
 ```
 
-**Total Driving Time:** ~35-40 hours over 21 days
+**Total Driving Time:** ~30-35 hours over 21 days (~2,700 km total distance)
 **Trip Style:** National Parks 🏞️ | Beaches 🏖️ | Cities 🌃
 
 ---
@@ -20,7 +20,7 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 ## 📅 Detailed Itinerary
 
 ### 🌉 Days 1-3 | San Francisco (Apr 17-19)
-![San Francisco](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GoldenGateBridge-001.jpg/800px-GoldenGateBridge-001.jpg)
+📸 [View Photos: Golden Gate NRA Photo Gallery](https://www.nps.gov/goga/learn/photosmultimedia/photogallery.htm)
 
 **📍 Location:** San Francisco, California
 **🚗 Drive:** Arrival day
@@ -38,10 +38,10 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 ---
 
 ### 🦦 Days 4-5 | Monterey & Carmel (Apr 20-21)
-![Monterey](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Monterey_Bay_Aquarium_Front.JPG/800px-Monterey_Bay_Aquarium_Front.JPG)
+📸 [View Photos: Monterey Bay Aquarium Gallery](https://www.montereybayaquarium.org/newsroom/image-galleries)
 
 **📍 Location:** Monterey/Carmel, California
-**🚗 Drive:** 2-3 hours from San Francisco
+**🚗 Drive:** 2-3 hours from San Francisco (~190 km)
 **🏨 Nights:** 2
 
 **Highlights:**
@@ -55,10 +55,10 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 ---
 
 ### 🏖️ Days 6-8 | Los Angeles Area (Apr 22-24)
-![Santa Monica](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Santa_Monica_Beach_%26_Pier%2C_California_%2821327248783%29.jpg/800px-Santa_Monica_Beach_%26_Pier%2C_California_%2821327248783%29.jpg)
+📸 [View Photos: Santa Monica Pier](https://www.santamonicapier.org/gallery/) | [Visit California: LA Photos](https://www.visitcalifornia.com/places-to-visit/los-angeles/)
 
 **📍 Location:** Los Angeles/Santa Monica, California
-**🚗 Drive:** 5-6 hours (break at Big Sur!)
+**🚗 Drive:** 5-6 hours (~540 km - break at Big Sur!)
 **🏨 Nights:** 3
 
 **Highlights:**
@@ -74,10 +74,10 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 ---
 
 ### 🎰 Days 9-11 | Las Vegas (Apr 25-27)
-![Las Vegas](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Las_Vegas_89.jpg/800px-Las_Vegas_89.jpg)
+📸 [View Photos: Visit Las Vegas Gallery](https://www.visitlasvegas.com/press/media-library/)
 
 **📍 Location:** Las Vegas, Nevada
-**🚗 Drive:** 4-4.5 hours from LA
+**🚗 Drive:** 4-4.5 hours from LA (~435 km)
 **🏨 Nights:** 3
 
 **Highlights:**
@@ -91,10 +91,10 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 ---
 
 ### 🏔️ Days 12-14 | Zion National Park (Apr 28-30)
-![Zion](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zion_angels_landing_view.jpg/800px-Zion_angels_landing_view.jpg)
+📸 [View Photos: Zion NPS Photo Gallery](https://www.nps.gov/zion/learn/photosmultimedia/photogallery.htm) | [Flickr: Zion NPS](https://www.flickr.com/photos/zionnps/)
 
 **📍 Location:** Springdale, Utah (Zion NP)
-**🚗 Drive:** 2.5-3 hours from Vegas
+**🚗 Drive:** 2.5-3 hours from Vegas (~260 km)
 **🏨 Nights:** 3
 
 **Highlights:**
@@ -109,31 +109,12 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 
 ---
 
-### 🌡️ Days 15-16 | Death Valley (May 1-2)
-![Death Valley](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Badwater_Basin.jpg/800px-Badwater_Basin.jpg)
-
-**📍 Location:** Death Valley National Park, California
-**🚗 Drive:** 3 hours from Zion
-**🏨 Nights:** 2
-
-**Highlights:**
-- Badwater Basin (lowest point in North America!)
-- Zabriskie Point sunrise
-- Mesquite Flat Sand Dunes
-- Artist's Palette
-
-> 👶 **Kid-Friendly:** Unique landscapes, salt flats to walk on, sand dunes
-
-**⚠️ Note:** Weather can be hot (80-95°F in early May). Bring lots of water!
-
----
-
-### 🏞️ Days 17-19 | Yosemite National Park (May 3-5)
-![Yosemite](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yosemite_Falls_2013.JPG/800px-Yosemite_Falls_2013.JPG)
+### 🏞️ Days 15-18 | Yosemite National Park (May 1-4)
+📸 [View Photos: Yosemite NPS Photo Gallery](https://www.nps.gov/yose/learn/photosmultimedia/photogallery.htm) | [NPGallery: Yosemite Archive](https://npgallery.nps.gov/YOSE)
 
 **📍 Location:** Yosemite Valley, California
-**🚗 Drive:** 6-7 hours from Death Valley
-**🏨 Nights:** 3
+**🚗 Drive:** 7-8 hours from Zion (~850 km - long drive day!)
+**🏨 Nights:** 4
 
 **Highlights:**
 - Yosemite Falls (peak flow in May!)
@@ -144,15 +125,15 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 
 > 👶 **Kid-Friendly:** Valley shuttle, short nature walks, dramatic waterfalls
 
-**⚠️ Note:** This is your longest drive - consider breaking it up with lunch stop. Some higher elevation areas may still have snow.
+**⚠️ Note:** This is your longest drive (7-8 hours) - plan for early start and lunch stop en route. Some higher elevation areas may still have snow. Extra day here gives you more flexibility!
 
 ---
 
-### 🔄 Days 20-21 | Return to San Francisco (May 6-7)
-![SF Return](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg/800px-San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg)
+### 🔄 Days 19-21 | Return to San Francisco (May 5-7)
+📸 [View Photos: San Francisco Travel](https://www.sftravel.com/media-room/image-gallery)
 
 **📍 Location:** San Francisco, California
-**🚗 Drive:** 3-4 hours from Yosemite
+**🚗 Drive:** 3-4 hours from Yosemite (~310 km)
 **🏨 Nights:** 1-2 (depending on flight time)
 
 **Activities:**
@@ -166,21 +147,21 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 
 | Metric | Details |
 |--------|---------|
-| **Total Distance** | ~2,000 miles |
-| **Total Driving Time** | 35-40 hours |
+| **Total Distance** | ~2,700 km |
+| **Total Driving Time** | 30-35 hours |
 | **States Visited** | California, Nevada, Utah |
-| **National Parks** | Zion, Death Valley, Yosemite |
-| **Longest Drive** | Zion to Yosemite (6-7 hours) |
-| **Weather** | 65-85°F (except Death Valley: 80-95°F) |
+| **National Parks** | Zion, Yosemite |
+| **Longest Drive** | Zion to Yosemite (7-8 hours, ~850 km) |
+| **Weather** | 18-29°C across the route |
 
 ---
 
 ## 💰 Budget Tips
 
 - **Accommodations:** Look for family suites at Hampton Inn, Holiday Inn Express, Best Western
-- **National Parks:** Get an America the Beautiful Annual Pass ($80) - covers all 3 parks!
+- **National Parks:** Get an America the Beautiful Annual Pass ($80) - covers both parks!
 - **Food:** Mix of restaurants and picnics (especially in national parks)
-- **Gas:** Budget ~$400-500 for fuel
+- **Gas:** Budget ~$350-450 for fuel
 
 ---
 
@@ -221,9 +202,7 @@ Start: SFO Airport ✈️
 📍 Las Vegas - Red Rock 🎰
    ↓ (2.5-3 hours)
 📍 Zion - Canyon 🏔️
-   ↓ (3 hours)
-📍 Death Valley - Badwater 🌡️
-   ↓ (6-7 hours)
+   ↓ (7-8 hours)
 📍 Yosemite - Waterfalls 💦
    ↓ (3-4 hours)
 End: SFO Airport ✈️
