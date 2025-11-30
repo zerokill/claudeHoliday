@@ -159,9 +159,61 @@ San Francisco → Monterey/Carmel → Los Angeles → Las Vegas
 ## 💰 Budget Tips
 
 - **Accommodations:** Look for family suites at Hampton Inn, Holiday Inn Express, Best Western
-- **National Parks:** Get an America the Beautiful Annual Pass ($80) - covers both parks!
 - **Food:** Mix of restaurants and picnics (especially in national parks)
 - **Gas:** Budget ~$350-450 for fuel
+
+---
+
+## 🎫 National Parks Pass - HIGHLY RECOMMENDED
+
+### America the Beautiful Annual Pass
+
+**Cost:** $80 (valid for 12 months)
+
+**What It Covers:**
+- ✅ Entrance to ALL U.S. National Parks and Federal Recreation Lands
+- ✅ Covers everyone in your vehicle (at per-vehicle fee areas)
+- ✅ Valid for one full year from month of purchase
+
+**Your Trip Breakdown:**
+
+| Park | Individual Entry Fee | With Annual Pass |
+|------|---------------------|------------------|
+| **Zion National Park** | $35/car (7 days) | ✅ Included |
+| **Yosemite National Park** | $35/car (7 days) | ✅ Included |
+| **Total Without Pass** | **$70** | - |
+| **Total With Pass** | - | **$80** |
+
+**Why We Recommend It:**
+
+✅ **Only $10 more** than buying individual entries
+✅ **Flexibility:** Covers spontaneous stops at other federal sites
+✅ **Covers Additional Sites:**
+- Point Reyes National Seashore (optional SF day trip)
+- Golden Gate National Recreation Area (Golden Gate Bridge area)
+- Any other national parks/monuments you might visit
+
+✅ **No Restrictions:** One pass covers all occupants in your vehicle
+✅ **Valid for Full Year:** Can use again if you return to USA within 12 months
+
+**Where to Buy:**
+
+1. **Online (Before Trip - RECOMMENDED):**
+   - 🔗 [USGS Store Official](https://store.usgs.gov/recreational-passes)
+   - Ships within 5-10 business days
+   - Buy before you travel!
+
+2. **In Person:**
+   - At park entrance gates (Zion, Yosemite)
+   - At visitor centers
+   - Credit card accepted
+
+3. **REI or Similar Outdoor Retailers** (if in USA before trip)
+
+**Our Verdict:**
+**✅ DEFINITELY GET THE PASS!** For only $10 more than individual entries, you get year-round access to 2,000+ federal recreation sites across the USA. Plus, you'll already have it when you arrive at Zion - no waiting in line to purchase!
+
+📍 **Purchase Link:** [Buy America the Beautiful Pass](https://store.usgs.gov/recreational-passes)
 
 ---
 
