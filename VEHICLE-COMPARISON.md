@@ -384,6 +384,293 @@
 
 ---
 
+## 📏 Vehicle Width & California Driving Suitability
+
+### **Width Measurements & Comparison**
+
+| Vehicle | Width (inches) | Width (cm) | California Rating | Parking Difficulty |
+|---------|----------------|------------|-------------------|-------------------|
+| **Chevrolet Tahoe** | 81" | 206 cm | ⚠️ Challenging | Very difficult |
+| **GMC Yukon Denali** | 81" | 206 cm | ⚠️ Challenging | Very difficult |
+| **Audi Q7** | 78" | 198 cm | ⚠️ Moderate | Difficult |
+| **Ford Explorer** | 79" | 201 cm | ✅ Good | Manageable |
+| **GMC Acadia** | 75.4" | 192 cm | ✅ Good | Easy |
+| **Hyundai Santa Fe** | 74.8" | 190 cm | ✅ Excellent | Easy |
+| **Toyota RAV4** | 73" | 185 cm | ✅ Excellent | Very easy |
+| **Chevrolet Equinox** | 72.5" | 184 cm | ✅ Excellent | Very easy |
+
+**For Reference:**
+- Standard U.S. parking space: 8.5-9 feet wide (102-108 inches / 259-274 cm)
+- Compact parking space: 7.5 feet (90 inches / 229 cm)
+- **All vehicles fit in standard spaces**, but tighter vehicles are easier to maneuver
+
+---
+
+### **California-Specific Driving Considerations**
+
+#### 🌉 **San Francisco (Days 1-3)**
+
+**Challenge Areas:**
+- **Steep Hills:** Narrow streets like Lombard Street, Russian Hill
+- **Street Parking:** Often tight parallel parking spots
+- **Parking Garages:** Some have tight turns and low clearance
+- **Cable Car Streets:** Narrow downtown streets (Powell, California St)
+
+**Vehicle Ratings for SF:**
+
+✅ **BEST for SF:**
+- **Hyundai Santa Fe** (74.8" / 190 cm) - Easy to park, nimble
+- **Toyota RAV4** (73" / 185 cm) - Easiest to maneuver
+- **Chevrolet Equinox** (72.5" / 184 cm) - Most maneuverable (but too small for trip!)
+- **GMC Acadia** (75.4" / 192 cm) - Good balance
+
+⚠️ **MANAGEABLE in SF:**
+- **Ford Explorer** (79" / 201 cm) - Slightly challenging but doable
+
+🚨 **CHALLENGING in SF:**
+- **Chevrolet Tahoe** (81" / 206 cm) - Difficult to park, tight streets
+- **GMC Yukon Denali** (81" / 206 cm) - Same as Tahoe
+- **Audi Q7** (78" / 198 cm) - Large for SF streets
+
+**Reality Check:**
+- If you're parking at a hotel with valet/parking garage, even Tahoe is fine
+- Street parking downtown with Tahoe = frustrating
+- **Pier 39, Fisherman's Wharf have large parking lots** - all vehicles OK
+
+---
+
+#### 🌊 **Big Sur Drive (Day 6: Monterey → LA)**
+
+**Challenge:** Narrow, winding coastal Highway 1
+
+**Width Concerns:**
+- Some sections have narrow lanes
+- Tight turns with steep drop-offs
+- Oncoming traffic can feel close
+- Frequent pullouts for viewing (tight exits/entries)
+
+**Vehicle Ratings for Big Sur:**
+
+✅ **COMFORTABLE:**
+- Compact SUVs (RAV4, Equinox, Santa Fe) - Narrower vehicles = more confident
+- **GMC Acadia** (75.4") - Fine, handles well
+
+✅ **MANAGEABLE:**
+- **Ford Explorer** (79") - Perfectly fine, just be attentive
+- **Audi Q7** (78") - Also fine
+
+⚠️ **WIDE BUT OK:**
+- **Chevrolet Tahoe** (81") - You'll feel the width, but thousands drive it daily
+- **GMC Yukon Denali** (81") - Same as Tahoe
+
+**Reality Check:**
+- Even large vehicles drive Big Sur regularly (tour buses, RVs!)
+- If you're comfortable driving your vehicle, Big Sur is fine
+- **Not a reason to avoid larger SUVs** - just drive cautiously
+
+---
+
+#### 🏖️ **Los Angeles & Santa Monica (Days 6-8)**
+
+**Roads:** Generally wide and spacious
+
+**Parking:**
+- Street parking: Can be tight in Santa Monica/Venice Beach
+- Hotel parking: Usually fine
+- Santa Monica Pier parking structure: Large spaces
+
+**Vehicle Ratings:**
+- ✅ **ALL vehicles are fine in LA** - roads are wide, parking is generally spacious
+- Even Tahoe/Yukon Denali are common in LA (very popular vehicles)
+
+---
+
+#### 🎰 **Las Vegas (Days 9-11)**
+
+**Roads:** VERY wide, designed for large vehicles
+
+**Parking:**
+- Hotel parking garages: Spacious
+- Strip parking: Large spaces
+- Red Rock Canyon: Large parking lots
+
+**Vehicle Ratings:**
+- ✅✅ **ALL vehicles are EXCELLENT in Vegas**
+- Vegas was designed for large trucks and SUVs - even Tahoe feels small here!
+
+---
+
+#### 🏔️ **Zion National Park (Days 12-14)**
+
+**Roads:** Wide entrance roads, shuttle system in canyon
+
+**Parking:**
+- Springdale hotels: Generally adequate
+- Zion visitor center: Large lots
+- You'll use shuttles inside the park (no driving in canyon)
+
+**Vehicle Ratings:**
+- ✅ **ALL vehicles are fine at Zion**
+- You won't be navigating tight spaces
+
+---
+
+#### 🏞️ **Yosemite National Park (Days 15-18)**
+
+**Roads:** Generally wide, but some parking areas can be tight
+
+**Parking Challenges:**
+- Yosemite Valley parking lots can fill up (arrive early)
+- Some parking spaces near trailheads are compact
+- Curry Village/Camp 4 areas can be tight
+
+**Vehicle Ratings:**
+
+✅ **BEST:**
+- Compact/midsize SUVs - Easier to find parking spots
+
+✅ **FINE:**
+- **GMC Acadia**, **Ford Explorer** - Perfectly adequate
+
+⚠️ **MANAGEABLE:**
+- **Tahoe/Yukon** - Large but park rangers say they're common, just arrive early for parking
+
+---
+
+### **🎯 Overall California Suitability Rankings**
+
+#### **Considering Your Entire Route:**
+
+**Route Breakdown:**
+- Days 1-3: San Francisco (tight parking)
+- Days 4-5: Monterey (fine)
+- Day 6: Big Sur drive (narrow roads)
+- Days 6-8: Los Angeles (fine)
+- Days 9-11: Las Vegas (excellent)
+- Days 12-14: Zion (excellent)
+- Days 15-18: Yosemite (good)
+- Days 19-21: San Francisco (tight parking again)
+
+**Verdict by Vehicle:**
+
+### 🏆 **EXCELLENT for California: Hyundai Santa Fe, GMC Acadia**
+- **Width:** 74.8-75.4 inches (190-192 cm)
+- Easy to park in SF
+- Comfortable on Big Sur
+- No concerns anywhere on route
+- **BUT:** Santa Fe has less cargo space (tight for 21 days)
+- **✅ GMC Acadia = Sweet spot of size and California-friendly**
+
+### ✅ **VERY GOOD for California: Ford Explorer**
+- **Width:** 79 inches (201 cm)
+- Slightly challenging in SF tight spots, but manageable
+- Fine on Big Sur
+- No issues anywhere else
+- **Extra 6 cubic feet cargo over Acadia makes SF parking trade-off worth it**
+
+### ⚠️ **MANAGEABLE for California: Chevrolet Tahoe, GMC Yukon Denali**
+- **Width:** 81 inches (206 cm)
+- **San Francisco will be frustrating** (tight parking, narrow streets)
+- **Big Sur feels wide** but totally doable
+- Everywhere else is fine
+- **Only get Tahoe if you NEED the space** - not because it's "better for California"
+- **The 4 inches difference (81" vs 77") is noticeable in SF**
+
+### ✅ **TOO SMALL BUT EXCELLENT WIDTH: RAV4, Equinox**
+- **Width:** 72.5-73 inches (184-185 cm)
+- Perfect width for California driving
+- **BUT:** Not enough cargo space for 21 days
+- Only consider for shorter trips
+
+### ⚠️ **LUXURY BUT WIDE: Audi Q7**
+- **Width:** 78 inches (198 cm)
+- Similar width challenges to Explorer
+- Not worth premium for California driving (no benefit over Explorer/Acadia)
+
+---
+
+## 💡 **Honest California Driving Recommendation**
+
+### **If San Francisco parking is a BIG concern for you:**
+
+**Best Choice: GMC Acadia**
+- Width: 75.4 inches (192 cm)
+- Cargo: 41.7 cu ft (adequate for 21 days)
+- **Easiest to park in SF** among vehicles with enough cargo
+- Total cost: $2,615-3,470
+
+### **If you want more cargo space and don't mind slightly harder SF parking:**
+
+**Best Choice: Ford Explorer**
+- Width: 79 inches (201 cm) - Only 3.6" wider than Acadia
+- Cargo: 47.9 cu ft (15% more space!)
+- SF parking slightly harder, but **worth the extra cargo space**
+- Total cost: $2,745-3,650
+
+### **If you want MAXIMUM space and don't care about SF parking challenges:**
+
+**Choose: Chevrolet Tahoe**
+- Width: 81 inches (206 cm) - Only 2" wider than Explorer
+- Cargo: 72.6 cu ft (massive!)
+- SF will be frustrating, but if you're staying at hotel with parking, it's fine
+- Total cost: $3,320-4,780
+
+---
+
+## 🔍 **The Width Difference Reality Check**
+
+**Width comparison:**
+- **Equinox → Acadia:** 2.9 inches wider (barely noticeable)
+- **Acadia → Explorer:** 3.6 inches wider (slightly noticeable)
+- **Explorer → Tahoe:** 2 inches wider (minimal difference)
+
+**What this means in real life:**
+
+- **5-inch difference** (Acadia 75.4" vs Tahoe 81"):
+  - ✅ Acadia fits in tight SF street parking comfortably
+  - ⚠️ Tahoe requires careful maneuvering in same spot
+
+- **Your realistic options for cargo + California:**
+  - **GMC Acadia** (75.4"): Easy SF parking, adequate cargo ⭐⭐⭐⭐⭐
+  - **Ford Explorer** (79"): Slightly tighter SF parking, MORE cargo ⭐⭐⭐⭐⭐
+  - **Tahoe** (81"): Challenging SF parking, TONS of cargo ⭐⭐⭐
+
+**Is the width difference a dealbreaker?**
+
+**NO** - Unless you're planning to:
+- Street park in downtown SF frequently (most tourists use hotel parking)
+- Drive Lombard Street for fun (skip it with kids anyway!)
+- Navigate Chinatown narrow alleys (unlikely with kids)
+
+**For your itinerary:**
+- You'll spend 3 days in SF (hotel parking likely)
+- One day on Big Sur (all vehicles are fine)
+- Rest of trip has wide roads and large parking
+
+**Verdict:** Width is a factor, but **cargo space is MORE important** for 21 days. Don't sacrifice cargo space just to save 4 inches width.
+
+---
+
+## 🎯 **Final California-Specific Recommendation**
+
+### **Best Overall: Ford Explorer ⭐⭐⭐**
+- **Width:** 79" (201 cm) - Goldilocks zone
+- **Cargo:** 47.9 cu ft - Perfect for 21 days
+- **California Rating:** Manageable in SF, excellent everywhere else
+- **Your best bet for space + California drivability**
+
+### **Best for SF Parking: GMC Acadia ⭐⭐**
+- **Width:** 75.4" (192 cm) - Easiest parking
+- **Cargo:** 41.7 cu ft - Adequate (but might feel tight by day 21)
+- **Choose this if SF parking stress matters more than extra cargo space**
+
+### **Skip for California: Chevrolet Tahoe**
+- **Width:** 81" (206 cm) - Unnecessarily wide for California
+- **SF will be frustrating**
+- **Only get Tahoe if you absolutely need 72 cu ft cargo** (you probably don't)
+
+---
+
 ## 🚐 DON'T OVERLOOK: Minivans! (Seriously!)
 
 ### **Chrysler Pacifica** or **Honda Odyssey** ⭐⭐⭐⭐⭐ BEST FOR FAMILIES
