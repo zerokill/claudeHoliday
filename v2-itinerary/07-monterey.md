@@ -1,6 +1,6 @@
-# Monterey & Carmel | Days 18-20
+# Monterey & Carmel | Days 18-21
 
-**May 4-6, 2025 | 3 Nights**
+**May 3-6, 2025 | 4 Nights**
 
 [Back to Main Itinerary](README.md)
 
@@ -18,8 +18,8 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | May 4-6, 2025 |
-| **Nights** | 3 |
+| **Dates** | May 3-6, 2025 |
+| **Nights** | 4 |
 | **Weather** | 12-18°C (cool, foggy mornings, pleasant afternoons) |
 | **Previous Stop** | Sequoia (4-5 hours, ~280 km) |
 | **Next Stop** | SFO Airport (2 hours, ~190 km) - Departure May 7 |
@@ -30,7 +30,7 @@
 
 ## Day-by-Day Plan
 
-### Day 18 (May 4) - Arrival & Beach Day
+### Day 18 (May 3) - Arrival & Beach Day
 
 **Theme:** Arrive, decompress, beach time
 
@@ -44,7 +44,7 @@
 
 ---
 
-### Day 19 (May 5) - Aquarium Day
+### Day 19 (May 4) - Aquarium Day
 
 **Theme:** THE highlight - Monterey Bay Aquarium
 
@@ -60,7 +60,7 @@
 
 ---
 
-### Day 20 (May 6) - Carmel & 17-Mile Drive
+### Day 20 (May 5) - Carmel & 17-Mile Drive
 
 **Theme:** Scenic coastline and beach town
 
@@ -70,7 +70,23 @@
 | Mid-Morning | Carmel Beach (beautiful white sand) |
 | Lunch | Carmel village (browse shops, eat) |
 | Afternoon | Return to Monterey, beach or playground time |
-| Evening | Final dinner, pack for departure tomorrow |
+| Evening | Dinner, relaxed evening |
+
+---
+
+### Day 21 (May 6) - Relaxed Day & Departure Prep
+
+**Theme:** Flexible day, pack for home
+
+| Time | Activity |
+|------|----------|
+| Morning | Sleep in, leisurely breakfast |
+| Late Morning | Revisit aquarium, playground, or tide pools |
+| Lunch | Favorite spot from the trip |
+| Afternoon | Pack, rest, prepare for travel |
+| Evening | Final dinner, early bedtime |
+
+**Note:** Extra day gives you flexibility! Revisit favorites or just relax before the journey home.
 
 ---
 
@@ -273,6 +289,16 @@
 - Light jacket
 - Beach toys (buckets, shovels)
 - Sunscreen (even on foggy days)
+
+---
+
+## Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Saturday, May 3, 2025 |
+| **Check-out** | Wednesday, May 7, 2025 |
+| **Nights** | 4 |
 
 ---
 

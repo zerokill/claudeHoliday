@@ -1,6 +1,6 @@
 # San Francisco | Days 1-3
 
-**April 17-19, 2025 | 3 Nights**
+**April 16-18, 2025 | 3 Nights**
 
 [Back to Main Itinerary](README.md)
 
@@ -17,7 +17,7 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | April 17-19, 2025 |
+| **Dates** | April 16-18, 2025 |
 | **Nights** | 3 |
 | **Weather** | 12-18°C, cool mornings, afternoon sun |
 | **Arrival** | SFO Airport |
@@ -29,7 +29,7 @@
 
 ## Day-by-Day Plan
 
-### Day 1 (Apr 17) - Arrival Day
+### Day 1 (Apr 16) - Arrival Day
 
 **Theme:** Settle in, easy afternoon
 
@@ -45,7 +45,7 @@
 
 ---
 
-### Day 2 (Apr 18) - Fisherman's Wharf & Zoo
+### Day 2 (Apr 17) - Fisherman's Wharf & Zoo
 
 **Theme:** Waterfront fun + animal encounters
 
@@ -59,7 +59,7 @@
 
 ---
 
-### Day 3 (Apr 19) - Golden Gate & Exploratorium
+### Day 3 (Apr 18) - Golden Gate & Exploratorium
 
 **Theme:** Iconic sights + science fun
 
@@ -208,6 +208,16 @@
 
 ---
 
+## Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Wednesday, April 16, 2025 |
+| **Check-out** | Saturday, April 19, 2025 |
+| **Nights** | 3 |
+
+---
+
 ## Accommodation Tips
 
 **Recommended Areas:**
@@ -225,7 +235,7 @@
 ## Next: Yosemite National Park
 
 **Drive:** 3-4 hours (~310 km) via Highway 120 or 140
-**Depart:** Morning of April 20
+**Depart:** Morning of April 19
 **Tip:** Leave early (8-9 AM) to arrive by lunchtime
 
 [Continue to Yosemite](02-yosemite.md)

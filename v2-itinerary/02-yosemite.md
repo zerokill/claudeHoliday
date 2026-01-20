@@ -1,6 +1,6 @@
 # Yosemite National Park | Days 4-7
 
-**April 20-23, 2025 | 4 Nights**
+**April 19-22, 2025 | 4 Nights**
 
 [Back to Main Itinerary](README.md)
 
@@ -18,7 +18,7 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | April 20-23, 2025 |
+| **Dates** | April 19-22, 2025 |
 | **Nights** | 4 |
 | **Weather** | 8-22°C (cool mornings, warm afternoons) |
 | **Elevation** | ~1,200m (Yosemite Valley) |
@@ -31,7 +31,7 @@
 
 ## Day-by-Day Plan
 
-### Day 4 (Apr 20) - Arrival & Valley Orientation
+### Day 4 (Apr 19) - Arrival & Valley Orientation
 
 **Theme:** Arrive and explore the valley
 
@@ -47,7 +47,7 @@
 
 ---
 
-### Day 5 (Apr 21) - Waterfalls Day
+### Day 5 (Apr 20) - Waterfalls Day
 
 **Theme:** Chase the waterfalls
 
@@ -63,7 +63,7 @@
 
 ---
 
-### Day 6 (Apr 22) - El Capitan & Meadows
+### Day 6 (Apr 21) - El Capitan & Meadows
 
 **Theme:** Iconic views and relaxed exploration
 
@@ -78,7 +78,7 @@
 
 ---
 
-### Day 7 (Apr 23) - Final Views & Departure to Vegas
+### Day 7 (Apr 22) - Final Views & Departure to Vegas
 
 **Theme:** Last looks before the long drive
 
@@ -267,6 +267,16 @@
 
 ---
 
+## Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Saturday, April 19, 2025 |
+| **Check-out** | Wednesday, April 23, 2025 |
+| **Nights** | 4 |
+
+---
+
 ## Accommodation Tips
 
 **In the Park:**
@@ -287,7 +297,7 @@
 
 **Drive:** 7-8 hours (~580 km)
 **Route:** Highway 140 South to Fresno → Highway 99 South → Highway 58 East → I-15 South to Las Vegas
-**Depart:** Morning of April 24
+**Depart:** Morning of April 23
 **Tip:** This is your longest drive! Leave early, plan lunch stop in Bakersfield or Barstow.
 
 **Note:** Tioga Pass (Highway 120 East) is typically closed until late May. Check [NPS Road Status](https://www.nps.gov/yose/planyourvisit/conditions.htm) before assuming it's open.

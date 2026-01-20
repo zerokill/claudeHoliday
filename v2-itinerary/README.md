@@ -1,6 +1,6 @@
 # USA West Coast Family Road Trip 2025 (v2)
 
-**April 17 - May 7, 2025 | 21 Days**
+**April 16 - May 7, 2025 | 22 Days**
 *Family of 4: 2 Adults + 2 Children (5 years & 18 months)*
 
 ---
@@ -12,7 +12,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 -> Grand Canyon (South Rim) -> Sequoia -> Monterey -> SFO Airport
 ```
 
-**Total Driving Time:** ~32-38 hours over 21 days (~2,800 km total distance)
+**Total Driving Time:** ~32-38 hours over 22 days (~2,800 km total distance)
 **Trip Style:** National Parks | Beaches | Family Activities
 
 ---
@@ -32,7 +32,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ## Detailed Itinerary
 
-### Days 1-3 | San Francisco (Apr 17-19)
+### Days 1-3 | San Francisco (Apr 16-18)
 [View detailed plan](01-san-francisco.md)
 
 **Location:** San Francisco, California
@@ -50,7 +50,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ---
 
-### Days 4-7 | Yosemite National Park (Apr 20-23)
+### Days 4-7 | Yosemite National Park (Apr 19-22)
 [View detailed plan](02-yosemite.md)
 
 **Location:** Yosemite Valley, California
@@ -69,7 +69,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ---
 
-### Days 8-10 | Las Vegas (Apr 24-26)
+### Days 8-10 | Las Vegas (Apr 23-25)
 [View detailed plan](03-las-vegas.md)
 
 **Location:** Las Vegas, Nevada
@@ -86,7 +86,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ---
 
-### Days 11-13 | Zion National Park (Apr 27-29)
+### Days 11-13 | Zion National Park (Apr 26-28)
 [View detailed plan](04-zion.md)
 
 **Location:** Springdale, Utah
@@ -103,7 +103,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ---
 
-### Days 14-16 | Grand Canyon South Rim (Apr 30-May 2)
+### Days 14-16 | Grand Canyon South Rim (Apr 29-May 1)
 [View detailed plan](05-grand-canyon.md)
 
 **Location:** Grand Canyon Village, Arizona
@@ -123,7 +123,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ---
 
-### Day 17 | Sequoia National Park (May 3)
+### Days 17-18 | Sequoia National Park (May 2-3)
 [View detailed plan](06-sequoia.md)
 
 **Location:** Three Rivers, California (gateway town)
@@ -140,12 +140,12 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ---
 
-### Days 18-20 | Monterey & Carmel (May 4-6)
+### Days 19-22 | Monterey & Carmel (May 3-6)
 [View detailed plan](07-monterey.md)
 
 **Location:** Monterey/Carmel, California
 **Drive:** 4-5 hours from Sequoia (~280 km)
-**Nights:** 3
+**Nights:** 4
 
 **Highlights:**
 - Monterey Bay Aquarium (world-class!)
@@ -158,7 +158,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 
 ---
 
-### Day 21 | Departure (May 7)
+### Day 22 | Departure (May 7)
 
 **Drive:** 2 hours from Monterey to SFO Airport (~190 km)
 **Departure:** San Francisco International Airport (SFO)
@@ -168,7 +168,7 @@ San Francisco -> Yosemite -> Las Vegas -> Zion National Park
 ## Trip Highlights Map
 
 ```
-Start: SFO Airport
+Start: SFO Airport (Apr 16)
    | (3 nights)
    San Francisco - Golden Gate, Zoo
    | 3-4 hours
@@ -182,9 +182,9 @@ Start: SFO Airport
    | 6 hours
    Sequoia - Giant Trees (1 night)
    | 4-5 hours
-   Monterey - Aquarium, Beach (3 nights)
+   Monterey - Aquarium, Beach (4 nights)
    | 2 hours
-End: SFO Airport
+End: SFO Airport (May 7)
 ```
 
 ---
@@ -200,6 +200,21 @@ End: SFO Airport
 | 17 | Grand Canyon | Three Rivers | ~550 km | 6 hours |
 | 18 | Three Rivers | Monterey | ~280 km | 4-5 hours |
 | 21 | Monterey | SFO | ~190 km | 2 hours |
+
+---
+
+## Booking Summary
+
+| Location | Check-in | Check-out | Nights |
+|----------|----------|-----------|--------|
+| San Francisco | Wed, Apr 16 | Sat, Apr 19 | 3 |
+| Yosemite | Sat, Apr 19 | Wed, Apr 23 | 4 |
+| Las Vegas | Wed, Apr 23 | Sat, Apr 26 | 3 |
+| Zion (Springdale) | Sat, Apr 26 | Tue, Apr 29 | 3 |
+| Grand Canyon | Tue, Apr 29 | Fri, May 2 | 3 |
+| Three Rivers (Sequoia) | Fri, May 2 | Sat, May 3 | 1 |
+| Monterey | Sat, May 3 | Wed, May 7 | 4 |
+| **Total** | | | **21 nights** |
 
 ---
 

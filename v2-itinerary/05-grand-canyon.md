@@ -1,6 +1,6 @@
 # Grand Canyon (South Rim) | Days 14-16
 
-**April 30 - May 2, 2025 | 3 Nights**
+**April 29 - May 1, 2025 | 3 Nights**
 
 [Back to Main Itinerary](README.md)
 
@@ -17,7 +17,7 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | April 30 - May 2, 2025 |
+| **Dates** | April 29 - May 1, 2025 |
 | **Nights** | 3 |
 | **Weather** | 10-22°C (mild days, cool nights) |
 | **Elevation** | ~2,100m (South Rim) |
@@ -30,7 +30,7 @@
 
 ## Day-by-Day Plan
 
-### Day 14 (Apr 30) - Arrival & First Views
+### Day 14 (Apr 29) - Arrival & First Views
 
 **Theme:** Arrive and experience the WOW
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Day 15 (May 1) - Rim Trail & Village
+### Day 15 (Apr 30) - Rim Trail & Village
 
 **Theme:** Explore the South Rim
 
@@ -64,7 +64,7 @@
 
 ---
 
-### Day 16 (May 2) - Desert View & Departure Prep
+### Day 16 (May 1) - Desert View & Departure Prep
 
 **Theme:** Eastern views before heading to California
 
@@ -277,6 +277,16 @@ A must-do scenic drive along the eastern South Rim:
 
 ---
 
+## Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Tuesday, April 29, 2025 |
+| **Check-out** | Friday, May 2, 2025 |
+| **Nights** | 3 |
+
+---
+
 ## Accommodation Tips
 
 **Inside the Park (Book MONTHS ahead!):**
@@ -334,7 +344,7 @@ If driving from Zion via Page:
 
 **Drive:** 6 hours (~550 km) to Three Rivers (gateway to Sequoia)
 **Route:** AZ-64 West to Williams → I-40 West → I-15 South (briefly) → CA-58 West → CA-99 North → CA-198 East to Three Rivers
-**Depart:** Afternoon of May 3
+**Depart:** Afternoon of May 2
 **Overnight:** Three Rivers (arrive evening)
 
 **Alternative Route:** Via Kingman and Barstow is similar time.

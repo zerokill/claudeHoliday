@@ -1,6 +1,6 @@
 # Sequoia National Park | Day 17
 
-**May 3-4, 2025 | 1 Night (Three Rivers)**
+**May 2-3, 2025 | 1 Night (Three Rivers)**
 
 [Back to Main Itinerary](README.md)
 
@@ -17,7 +17,7 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | May 3-4, 2025 |
+| **Dates** | May 2-3, 2025 |
 | **Nights** | 1 (in Three Rivers) |
 | **Weather** | Giant Forest: 10-18°C; Three Rivers: 15-28°C |
 | **Elevation** | ~2,000m (Giant Forest) |
@@ -30,7 +30,7 @@
 
 ## Day-by-Day Plan
 
-### Day 17 (May 3) - Arrival Evening
+### Day 17 (May 2) - Arrival Evening
 
 **Theme:** Arrive, rest, prepare for tomorrow
 
@@ -45,7 +45,7 @@
 
 ---
 
-### Day 18 (May 4) - Giant Trees Day
+### Day 18 (May 3) - Giant Trees Day
 
 **Theme:** World's largest trees, then drive to Monterey
 
@@ -210,6 +210,16 @@ This gives you 4 solid hours in the park before the drive.
 - Mule deer common
 - Marmots and squirrels
 - Stellar's jays (noisy blue birds)
+
+---
+
+## Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Friday, May 2, 2025 |
+| **Check-out** | Saturday, May 3, 2025 |
+| **Nights** | 1 |
 
 ---
 

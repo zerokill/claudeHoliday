@@ -1,6 +1,6 @@
 # Las Vegas | Days 8-10
 
-**April 24-26, 2025 | 3 Nights**
+**April 23-25, 2025 | 3 Nights**
 
 [Back to Main Itinerary](README.md)
 
@@ -17,7 +17,7 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | April 24-26, 2025 |
+| **Dates** | April 23-25, 2025 |
 | **Nights** | 3 |
 | **Weather** | 18-28°C (warm, sunny) |
 | **Previous Stop** | Yosemite (7-8 hours, ~580 km) |
@@ -29,7 +29,7 @@
 
 ## Day-by-Day Plan
 
-### Day 8 (Apr 24) - Arrival & Pool Day
+### Day 8 (Apr 23) - Arrival & Pool Day
 
 **Theme:** Rest and pool time
 
@@ -44,7 +44,7 @@
 
 ---
 
-### Day 9 (Apr 25) - Red Rock Canyon
+### Day 9 (Apr 24) - Red Rock Canyon
 
 **Theme:** Desert landscapes and nature
 
@@ -58,7 +58,7 @@
 
 ---
 
-### Day 10 (Apr 26) - Vegas Family Fun
+### Day 10 (Apr 25) - Vegas Family Fun
 
 **Theme:** Family attractions and free shows
 
@@ -259,6 +259,16 @@ An evening stroll down the Las Vegas Strip is free and fun:
 
 ---
 
+## Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Wednesday, April 23, 2025 |
+| **Check-out** | Saturday, April 26, 2025 |
+| **Nights** | 3 |
+
+---
+
 ## Accommodation Tips
 
 **Recommended Family Hotels:**
@@ -285,7 +295,7 @@ An evening stroll down the Las Vegas Strip is free and fun:
 ## Next: Zion National Park
 
 **Drive:** 2.5-3 hours (~260 km) via I-15 North
-**Depart:** Morning of April 27
+**Depart:** Morning of April 26
 **Tip:** Easy drive! No need to rush.
 
 [Continue to Zion](04-zion.md)

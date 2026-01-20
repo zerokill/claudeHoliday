@@ -1,6 +1,6 @@
 # Zion National Park | Days 11-13
 
-**April 27-29, 2025 | 3 Nights**
+**April 26-28, 2025 | 3 Nights**
 
 [Back to Main Itinerary](README.md)
 
@@ -17,7 +17,7 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | April 27-29, 2025 |
+| **Dates** | April 26-28, 2025 |
 | **Nights** | 3 |
 | **Weather** | 15-25°C (pleasant, warm afternoons) |
 | **Elevation** | ~1,200m (Springdale/Canyon floor) |
@@ -30,7 +30,7 @@
 
 ## Day-by-Day Plan
 
-### Day 11 (Apr 27) - Arrival & Canyon Introduction
+### Day 11 (Apr 26) - Arrival & Canyon Introduction
 
 **Theme:** Arrive and explore Springdale
 
@@ -47,7 +47,7 @@
 
 ---
 
-### Day 12 (Apr 28) - Riverside Walk & Canyon
+### Day 12 (Apr 27) - Riverside Walk & Canyon
 
 **Theme:** The famous Zion Canyon
 
@@ -64,7 +64,7 @@
 
 ---
 
-### Day 13 (Apr 29) - Scenic Drive & Departure Prep
+### Day 13 (Apr 28) - Scenic Drive & Departure Prep
 
 **Theme:** More views before Grand Canyon
 
@@ -274,6 +274,16 @@ Springdale is the gateway town just outside the park entrance. It's walkable, fa
 
 ---
 
+## Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Saturday, April 26, 2025 |
+| **Check-out** | Tuesday, April 29, 2025 |
+| **Nights** | 3 |
+
+---
+
 ## Accommodation Tips
 
 **In Springdale (Recommended):**
@@ -311,7 +321,7 @@ Springdale is the gateway town just outside the park entrance. It's walkable, fa
 
 **Drive:** 4.5 hours (~410 km) via Kanab and Page
 **Route:** US-89 South through Kanab → US-89A → AZ-67 or continue to Page → US-89 South → AZ-64 to Grand Canyon Village
-**Depart:** Afternoon of April 30
+**Depart:** Afternoon of April 29
 
 **Scenic Highlights on the Drive:**
 - Kanab (cute town, possible lunch stop)
