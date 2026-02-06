@@ -1,6 +1,6 @@
-# Grand Canyon (South Rim) | Days 14-16
+# Grand Canyon (South Rim) | Days 15-16
 
-**April 29 - May 1, 2025 | 3 Nights**
+**April 30 - May 1, 2025 | 2 Nights**
 
 [Back to Main Itinerary](README.md)
 
@@ -17,12 +17,12 @@
 
 | Detail | Info |
 |--------|------|
-| **Dates** | April 29 - May 1, 2025 |
-| **Nights** | 3 |
+| **Dates** | April 30 - May 1, 2025 |
+| **Nights** | 2 |
 | **Weather** | 10-22°C (mild days, cool nights) |
 | **Elevation** | ~2,100m (South Rim) |
-| **Previous Stop** | Zion (4.5 hours, ~410 km) |
-| **Next Stop** | Sequoia (6 hours, ~550 km) |
+| **Previous Stop** | Page (2.5 hours, ~210 km) |
+| **Next Stop** | Bishop/Eastern Sierra (7-8 hours, ~650 km) |
 
 **Focus:** One of the Seven Natural Wonders of the World! Easy rim walks, stunning viewpoints, Junior Ranger program, and the iconic IMAX experience. The South Rim is perfect for families.
 
@@ -30,52 +30,39 @@
 
 ## Day-by-Day Plan
 
-### Day 14 (Apr 29) - Arrival & First Views
+### Day 15 (Apr 30) - Arrival & First Views
 
-**Theme:** Arrive and experience the WOW
+**Theme:** Arrive from Page and experience the WOW
 
 | Time | Activity |
 |------|----------|
-| Morning | Depart Zion, scenic drive via Kanab/Page |
-| Optional Stop | Horseshoe Bend near Page (short walk) |
-| Lunch | In Page or Cameron |
-| Mid-Afternoon | Arrive Grand Canyon, check in |
-| Late Afternoon | Walk to Mather Point for first canyon view! |
+| Morning | Depart Page after breakfast |
+| Optional Stop | Navajo Bridge (look for condors!) |
+| Late Morning | Arrive Grand Canyon, check in |
+| Lunch | At the park or Tusayan |
+| Afternoon | Walk to Mather Point for first canyon view! |
+| Late Afternoon | Rim Trail walk, Yavapai Geology Museum |
 | Sunset | Watch sunset at Yaki Point or Mather Point |
-| Evening | Dinner at the park or Tusayan |
+| Evening | Dinner at the park |
 
 **Tip:** The first view of the Grand Canyon is unforgettable. Take your time at Mather Point!
 
 ---
 
-### Day 15 (Apr 30) - Rim Trail & Village
+### Day 16 (May 1) - Explore & Departure
 
-**Theme:** Explore the South Rim
-
-| Time | Activity |
-|------|----------|
-| Sunrise | Early sunrise at Mather Point (optional) |
-| Morning | Rim Trail walk from Village to Yavapai Geology Museum |
-| Late Morning | Junior Ranger program at Visitor Center |
-| Lunch | Picnic or cafeteria at Market Plaza |
-| Afternoon | Grand Canyon IMAX movie (great for a break!) |
-| Late Afternoon | Walk more Rim Trail or relax |
-| Evening | Dinner, rest |
-
----
-
-### Day 16 (May 1) - Desert View & Departure Prep
-
-**Theme:** Eastern views before heading to California
+**Theme:** Morning exploration, then long drive to Bishop
 
 | Time | Activity |
 |------|----------|
-| Morning | Drive Desert View Road (40 km scenic drive) |
-| Late Morning | Climb Desert View Watchtower |
-| Lunch | Back at the Village or pack a picnic |
-| Early Afternoon | One more Rim Trail walk, gift shop |
-| Mid-Afternoon | Depart for Three Rivers/Sequoia |
-| Evening | Overnight en route (Three Rivers or Bakersfield) |
+| Early Morning | Sunrise at Mather Point (optional) |
+| Morning | Junior Ranger program or more Rim Trail |
+| Late Morning | Desert View Watchtower drive (if time) OR gift shop |
+| Lunch | Quick lunch at the park |
+| Early Afternoon | Depart for Bishop/Eastern Sierra (long drive!) |
+| Evening | Arrive Bishop area |
+
+**Note:** This is a long driving day (~7-8 hours). Consider leaving by noon to arrive before dark.
 
 ---
 
@@ -281,9 +268,9 @@ A must-do scenic drive along the eastern South Rim:
 
 | Detail | Date |
 |--------|------|
-| **Check-in** | Tuesday, April 29, 2025 |
+| **Check-in** | Wednesday, April 30, 2025 |
 | **Check-out** | Friday, May 2, 2025 |
-| **Nights** | 3 |
+| **Nights** | 2 |
 
 ---
 
@@ -324,32 +311,16 @@ A must-do scenic drive along the eastern South Rim:
 
 ---
 
-## Optional: Horseshoe Bend (En Route)
+## Next: Bishop & Eastern Sierra
 
-If driving from Zion via Page:
+**Drive:** 7-8 hours (~650 km)
+**Route:** AZ-64 West to Williams → I-40 West → Kingman → US-93 North to Las Vegas → US-95 North → Bishop
+**Depart:** Early afternoon of May 2
+**Arrive:** Evening in Bishop
 
-**Horseshoe Bend**
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=Horseshoe+Bend+Page+AZ)
-- [Official Website](https://www.visitarizona.com/directory/horseshoe-bend/)
-- Iconic Colorado River horseshoe
-- 2.4 km round trip walk
-- NO shade, can be hot
-- **Cost:** $10 parking
+**Tip:** This is a long drive! Leave by noon-1 PM to arrive before dark. Stock up on snacks and gas at the park.
 
-> **Kid-Friendly Caution:** Beautiful but NO railings at the edge. Hold kids' hands firmly! The 18-month-old should stay in carrier. If nervous about drop-offs, skip it.
-
----
-
-## Next: Sequoia National Park
-
-**Drive:** 6 hours (~550 km) to Three Rivers (gateway to Sequoia)
-**Route:** AZ-64 West to Williams → I-40 West → I-15 South (briefly) → CA-58 West → CA-99 North → CA-198 East to Three Rivers
-**Depart:** Afternoon of May 2
-**Overnight:** Three Rivers (arrive evening)
-
-**Alternative Route:** Via Kingman and Barstow is similar time.
-
-[Continue to Sequoia](06-sequoia.md)
+[Continue to Bishop](07-bishop.md)
 
 ---
 

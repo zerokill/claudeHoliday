@@ -242,4 +242,97 @@
 
 ---
 
+# Return Visit
+
+## Days 20-21 | San Francisco Return (May 5-6)
+
+You're back! After your amazing road trip through the Southwest and Eastern Sierra, you have 2 nights in San Francisco before flying home.
+
+---
+
+## Return Visit Overview
+
+| Detail | Info |
+|--------|------|
+| **Dates** | May 5-6, 2025 |
+| **Nights** | 2 |
+| **Arriving from** | Bishop/Eastern Sierra (5-6 hours) |
+| **Departure** | May 7, 2025 from SFO |
+
+---
+
+## Return Booking Information
+
+| Detail | Date |
+|--------|------|
+| **Check-in** | Monday, May 5, 2025 |
+| **Check-out** | Wednesday, May 7, 2025 |
+| **Nights** | 2 |
+
+---
+
+## Day 20 (May 5) - Arrival from Bishop
+
+**Theme:** Arrive, rest, revisit favorites
+
+| Time | Activity |
+|------|----------|
+| Morning | Depart Bishop |
+| Midday | Stop at Columbia State Historic Park (if going via Sonora) |
+| Afternoon | Continue to San Francisco |
+| Late Afternoon | Arrive SF, check in |
+| Evening | Easy dinner, rest |
+
+**En Route Stop:**
+
+### Columbia State Historic Park
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=Columbia+State+Historic+Park+CA)
+- [Official Website](https://www.parks.ca.gov/?page_id=552)
+- Preserved 1850s gold rush town
+- Main Street is like stepping back in time
+- Gold panning for kids!
+- Stagecoach rides
+- Historic candy shop, blacksmith
+- **FREE** to walk around (activities extra)
+
+> **Kid-Friendly:** A HUGE hit! Gold panning is exciting, stagecoach rides are fun, and the old-timey candy shop is irresistible. Plan 1-2 hours.
+
+---
+
+## Day 21 (May 6) - Final Day
+
+**Theme:** Relax and explore
+
+| Time | Activity |
+|------|----------|
+| Morning | Sleep in, leisurely breakfast |
+| Late Morning | Revisit a favorite spot OR explore something new |
+| Lunch | Favorite restaurant from the trip |
+| Afternoon | Pack, last-minute shopping |
+| Evening | Final dinner, early bedtime |
+
+**Ideas for Final Day:**
+- Revisit the zoo or Exploratorium
+- Golden Gate Park if you missed it
+- Ghirardelli Square for chocolate!
+- Final walk along the waterfront
+- Souvenir shopping
+
+---
+
+## Day 22 (May 7) - Departure
+
+| Time | Activity |
+|------|----------|
+| Morning | Check out, drive to SFO (~30 min from most SF hotels) |
+| | Return rental car |
+| | Flight home! |
+
+**Tips:**
+- Allow 2.5-3 hours before your flight for rental car return and security
+- SFO rental car return is straightforward - follow signs to "Rental Car Return"
+- Have snacks ready for kids during airport wait
+
+---
+
 [Back to Main Itinerary](README.md)

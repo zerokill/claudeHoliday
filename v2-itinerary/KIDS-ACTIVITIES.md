@@ -11,28 +11,20 @@
 
 | Category | Best Options |
 |----------|--------------|
-| **Aquariums** | Monterey Bay Aquarium, Shark Reef (Vegas) |
-| **Zoos/Wildlife** | SF Zoo, Red Rock Canyon, national park wildlife |
-| **Playgrounds** | Dennis the Menace, Koret, Crissy Field, Springdale |
-| **Swimming/Beaches** | Vegas hotel pools, Carmel Beach, Monterey |
-| **Easy Hikes** | Riverside Walk, Big Trees Trail, Lower Yosemite Fall |
+| **Aquariums** | Shark Reef (Vegas), Aquarium of the Bay (SF) |
+| **Zoos/Wildlife** | SF Zoo, Red Rock Canyon, Mono Lake birds |
+| **Playgrounds** | Koret, Crissy Field, Springdale |
+| **Swimming** | Vegas hotel pools, Crissy Field beach |
+| **Easy Hikes** | Riverside Walk, Lower Yosemite Fall, Rim Trail |
+| **Unique** | Horseshoe Bend, Mono Lake, Columbia gold panning |
 
 ---
 
 ## Aquariums & Sea Life
 
-### Monterey Bay Aquarium (MUST-DO!)
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=Monterey+Bay+Aquarium+CA)
-- **Location:** Monterey (Day 19)
-- **Why kids love it:** Sea otters! Jellyfish! Touch pools! Kelp forest!
-- **Best for:** All ages
-- **Time needed:** 4-5 hours
-- **Cost:** ~$60 adults, $40 children (3-12), free under 3
-- **Tips:** Go at opening (10 AM), watch otter feedings
-
 ### Shark Reef Aquarium
 - [Google Maps](https://www.google.com/maps/search/?api=1&query=Shark+Reef+Aquarium+Mandalay+Bay+Las+Vegas+NV)
-- **Location:** Las Vegas (Day 9-10)
+- **Location:** Las Vegas (Day 8-10)
 - **Why kids love it:** Walk-through shark tunnel, touch pool with rays
 - **Best for:** All ages
 - **Time needed:** 1-2 hours
@@ -45,6 +37,12 @@
 - **Best for:** All ages
 - **Time needed:** 1-2 hours
 - **Cost:** ~$28 adults, $18 children
+
+### Sea Lions at Pier 39 (FREE!)
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=Pier+39+Sea+Lions+San+Francisco+CA)
+- **Location:** San Francisco (Day 1-3)
+- K-Dock sea lions are hilarious to watch!
+- Free viewing anytime
 
 ---
 
@@ -60,7 +58,7 @@
 
 ### Siegfried & Roy's Secret Garden
 - [Google Maps](https://www.google.com/maps/search/?api=1&query=Siegfried+and+Roys+Secret+Garden+Mirage+Las+Vegas)
-- **Location:** Las Vegas (Day 9-10)
+- **Location:** Las Vegas (Day 8-10)
 - **Why kids love it:** White tigers, lions! Small and manageable.
 - **Best for:** 3+ years
 - **Time needed:** 1 hour
@@ -73,27 +71,15 @@
 | **Yosemite** | Deer, squirrels, birds | Meadows, especially morning/evening |
 | **Zion** | Deer, rock squirrels, condors | Canyon floor, Pa'rus Trail |
 | **Grand Canyon** | Elk, condors, ravens | Village area, rim |
-| **Sequoia** | Black bears (from distance!), deer, marmots | Giant Forest area |
-
-### Sea Lions (Free!)
-- **Pier 39, San Francisco:** K-Dock sea lions are hilarious to watch
-- **Monterey:** Under Fisherman's Wharf
-- **17-Mile Drive:** Bird Rock Vista stop
+| **Mono Lake** | Millions of migratory birds | South Tufa area |
 
 ---
 
 ## Playgrounds
 
-### Dennis the Menace Playground (TOP PICK!)
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=Dennis+the+Menace+Playground+Monterey+CA)
-- **Location:** Monterey (Day 19-20)
-- **Why it's amazing:** Massive climbing structures, roller slide, suspension bridge
-- **Best for:** 2-12 years (both your kids will love it!)
-- **Cost:** Free
-
-### Koret Children's Quarter
+### Koret Children's Quarter (TOP PICK!)
 - [Google Maps](https://www.google.com/maps/search/?api=1&query=Koret+Childrens+Quarter+Golden+Gate+Park+San+Francisco)
-- **Location:** San Francisco, Golden Gate Park (Day 1-3)
+- **Location:** San Francisco, Golden Gate Park (Day 1-3 or 20-21)
 - **Why it's amazing:** Concrete slides, historic carousel, large play area
 - **Best for:** All ages
 - **Cost:** Free (carousel ~$4)
@@ -131,21 +117,11 @@
 
 ### Beaches
 
-**Carmel Beach (TOP PICK)**
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=Carmel+Beach+CA)
-- **Location:** Carmel (Day 20)
-- Soft white sand, gentle waves
-- Perfect for sandcastles and playing
-
 **Crissy Field Beach**
 - [Google Maps](https://www.google.com/maps/search/?api=1&query=Crissy+Field+San+Francisco+CA)
 - **Location:** San Francisco (Day 3)
 - Golden Gate Bridge views while playing in sand
 - Water is COLD - wading only
-
-**Monterey Beaches**
-- Del Monte Beach, Lovers Point (Pacific Grove)
-- Tide pools at low tide!
 
 ### River Wading
 
@@ -169,10 +145,10 @@
 |-------|----------|----------|-------|
 | **Riverside Walk** | Zion | 3.2 km | Paved, ends at river |
 | **Pa'rus Trail** | Zion | 5.6 km | Flat, paved |
-| **Big Trees Trail** | Sequoia | 2 km | Paved loop |
 | **Lower Yosemite Fall** | Yosemite | 1.6 km | Paved loop |
 | **Rim Trail** | Grand Canyon | Sections | Paved near village |
 | **Mirror Lake** | Yosemite | 3.2 km | Mostly paved |
+| **South Tufa** | Mono Lake | 1.6 km | Flat, sandy |
 
 ### Best for the 5-Year-Old
 
@@ -180,9 +156,9 @@ These trails are walkable for a determined 5-year-old:
 
 1. **Lower Yosemite Fall** (1.6 km) - Waterfalls!
 2. **Riverside Walk** (3.2 km) - River at the end!
-3. **Congress Trail** (3.2 km) - Giant trees!
-4. **Lower Emerald Pools** (1.9 km) - Small waterfall
-5. **Rim Trail sections** - Canyon views!
+3. **Lower Emerald Pools** (1.9 km) - Small waterfall
+4. **Rim Trail sections** - Canyon views!
+5. **Mobius Arch** (0.5 km) - Cool rock arch!
 
 ### Best for the 18-Month-Old (in carrier/stroller)
 
@@ -207,11 +183,6 @@ All the above work in a stroller or carrier. For the youngest:
 - Learn how the canyon formed
 - Free with park entry
 
-**Giant Forest Museum (Sequoia)**
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=Giant+Forest+Museum+Sequoia+National+Park+CA)
-- All about giant sequoias
-- Junior Ranger station
-
 ### Junior Ranger Programs (FREE!)
 
 Every national park offers Junior Ranger programs:
@@ -221,7 +192,6 @@ Every national park offers Junior Ranger programs:
 | **Yosemite** | Visitor Center | Ages 3+ |
 | **Zion** | Visitor Center | Ages 3+ |
 | **Grand Canyon** | Visitor Center | Ages 3+ |
-| **Sequoia** | Giant Forest Museum | Ages 3+ |
 
 **How it works:**
 1. Pick up free booklet at visitor center
@@ -229,22 +199,48 @@ Every national park offers Junior Ranger programs:
 3. Show to a ranger
 4. Earn a badge!
 
-The 5-year-old can collect 4 badges on this trip!
+The 5-year-old can collect 3 badges on this trip!
 
 ---
 
 ## Unique Experiences
 
-### Tunnel Log (Drive Through a Tree!)
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=Tunnel+Log+Sequoia+National+Park+CA)
-- **Location:** Sequoia (Day 18)
-- Drive your car through a fallen giant sequoia!
-- **Memory maker:** Kids will talk about this forever
+### Horseshoe Bend
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=Horseshoe+Bend+Page+AZ)
+- **Location:** Page, Arizona (Day 14)
+- Iconic 270° bend in the Colorado River
+- 1.2 km walk to the viewpoint
+- **Caution:** NO railings! Hold kids' hands firmly
 
-### General Sherman Tree (World's Largest!)
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=General+Sherman+Tree+Sequoia+National+Park+CA)
-- **Location:** Sequoia (Day 18)
-- Mind-boggling scale for kids to comprehend
+> **Kid-Friendly Note:** Amazing views but requires attention to safety. Keep 18-month-old in carrier. Worth it for the wow factor!
+
+### Mono Lake Tufa Towers
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=Mono+Lake+South+Tufa+CA)
+- **Location:** Eastern Sierra (Day 18)
+- Otherworldly calcium formations
+- Ancient lake with weird brine shrimp
+- Easy walk around the towers
+
+> **Kid-Friendly:** Like an alien planet! Kids love exploring around the bizarre formations.
+
+### Columbia State Historic Park (Gold Rush Town!)
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=Columbia+State+Historic+Park+CA)
+- **Location:** En route Bishop to SF (Day 20)
+- Preserved 1850s gold rush town
+- **Gold panning** - huge hit with kids!
+- Stagecoach rides
+- Old-timey candy shop
+
+> **Kid-Friendly:** A MUST STOP! Gold panning is so exciting for kids. The whole town is like stepping back in time.
+
+### Alabama Hills
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=Alabama+Hills+Lone+Pine+CA)
+- **Location:** Eastern Sierra (Day 19)
+- Movie location (hundreds of westerns filmed here!)
+- Giant boulders to explore
+- Natural rock arches
+
+> **Kid-Friendly:** Like a natural playground! Kids can climb on boulders. Incredible mountain backdrop.
 
 ### Cable Car Ride
 - [Google Maps](https://www.google.com/maps/search/?api=1&query=Powell+Street+Cable+Car+Turnaround+San+Francisco+CA)
@@ -254,7 +250,7 @@ The 5-year-old can collect 4 badges on this trip!
 
 ### Bellagio Fountains
 - [Google Maps](https://www.google.com/maps/search/?api=1&query=Bellagio+Fountains+Las+Vegas+NV)
-- **Location:** Las Vegas (Day 9-10)
+- **Location:** Las Vegas (Day 8-10)
 - FREE water show set to music
 - Best at dusk with lights
 
@@ -271,11 +267,11 @@ The 5-year-old can collect 4 badges on this trip!
 
 | Activity | Location | Why |
 |----------|----------|-----|
-| Monterey Bay Aquarium | Monterey | Colorful fish, open spaces |
 | SF Zoo - Children's Zoo | San Francisco | Petting animals, train ride |
-| Beach play | Carmel, Crissy Field | Sand, sensory play |
+| Beach play | Crissy Field | Sand, sensory play |
 | Hotel pools | Las Vegas | Splashing! |
 | Shuttle rides | Yosemite, Zion, Grand Canyon | Looking out windows |
+| Mono Lake | Eastern Sierra | Colorful, interesting textures |
 
 ### Best for 5-Year-Old
 
@@ -283,9 +279,9 @@ The 5-year-old can collect 4 badges on this trip!
 |----------|----------|-----|
 | Junior Ranger Programs | All parks | Badges to earn! |
 | Exploratorium | San Francisco | Touch everything! |
-| Dennis the Menace Playground | Monterey | Epic climbing |
+| Gold panning | Columbia | Real gold! |
 | River wading | Zion | Adventure! |
-| Giant sequoias | Sequoia | Mind-blowing size |
+| Alabama Hills climbing | Eastern Sierra | Boulder playground |
 | Looking for climbers on El Capitan | Yosemite | Like a treasure hunt |
 
 ---
@@ -296,12 +292,12 @@ The 5-year-old can collect 4 badges on this trip!
 
 - [ ] Stroller (for paved trails)
 - [ ] Child carrier/backpack (for unpaved trails)
-- [ ] Water shoes (for Zion river, tide pools)
+- [ ] Water shoes (for Zion river)
 - [ ] Swimsuits & swim diapers
 - [ ] Sunscreen (SPF 50+)
 - [ ] Sun hats
 - [ ] Sunglasses
-- [ ] Layers (it's cold in the mountains!)
+- [ ] Warm layers (Eastern Sierra is cold!)
 
 ### Entertainment
 
@@ -382,7 +378,6 @@ Each park has a Visitor Center with first aid and rangers who can help.
 | Yosemite | (209) 372-0200 |
 | Zion | (435) 772-3256 |
 | Grand Canyon | (928) 638-7888 |
-| Sequoia | (559) 565-3341 |
 
 ---
 
